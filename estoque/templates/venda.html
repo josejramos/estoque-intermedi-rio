@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Venda de Produtos</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Venda de Produtos</h1>
+    <form action="{{ url_for('venda') }}" method="post">
+        <label for="id_venda">ID do Produto:</label>
+        <input type="text" id="id_venda" name="id" required><br><br>
+        
+        <label for="quantidade_venda">Quantidade a Vender:</label>
+        <input type="text" id="quantidade_venda" name="quantidade" required><br><br>
+        
+        <label for="tipo_estoque">Tipo de Estoque:</label>
+        <select id="tipo_estoque" name="tipo_estoque">
+            <option value="estoque">Estoque</option>
+        
+        </select><br><br>
+        
+        <input type="submit" value="Confirmar Venda">
+    </form>
+</body>
+</html>
+
+

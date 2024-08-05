@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Control estoque</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Cadastro de Produtos</h1>
+    <form action="{{ url_for('cadastrar') }}" method="post">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome"><br><br>
+        
+        <label for="marca">Marca:</label>
+        <input type="text" id="marca" name="marca"><br><br>
+        
+        <label for="id">ID:</label>
+        <input type="text" id="id" name="id"><br><br>
+        
+        <label for="quantidade">Quantidade:</label>
+        <input type="text" id="quantidade" name="quantidade"><br><br>
+        
+    
+        <input type="submit" value="Cadastrar Produto">
+    </form>
+    
+    <hr>
+    
+    <hr>
+    <h1>Enviar para Defeito</h1>
+    <form action="{{ url_for('enviar_defeito') }}" method="post">
+        <label for="id">ID do Produto:</label>
+        <input type="text" id="id" name="id" required><br><br>
+    
+        <label for="quantidade">Quantidade de Produtos:</label>
+        <input type="number" id="quantidade" name="quantidade" min="1" required><br><br>
+        
+        <label for="tag">Tag:</label>
+        <input type="text" id="tag" name="tag" required><br><br>
+        
+        <label for="observacao">Observação:</label><br>
+        <textarea id="observacao" name="observacao" rows="4" cols="50" required></textarea><br><br>
+        
+        <input type="submit" value="Enviar para Defeito">
+    </form>
+    
+   
+</body>
+</html>
+

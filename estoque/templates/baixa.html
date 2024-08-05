@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baixa</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='baixa.css') }}">
+</head>
+<body>
+    <h1>Produtos em Baixa</h1>
+
+    <!-- Formulário para enviar produto para baixa -->
+    <form action="{{ url_for('mover') }}" method="post">
+        <label for="id">ID do Produto:</label>
+        <input type="text" id="id" name="id" required><br><br>
+        
+        <label for="tag">Tag:</label>
+        <input type="text" id="tag" name="tag" required><br><br>
+        
+        <button type="submit">Mover para Baixa</button>
+    </form>
+
+    <!-- Tabela de produtos em baixa -->
+    <h2>Produtos em Baixa</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Marca</th>
+                <th>ID</th>
+                <th>Quantidade</th>
+                <th>Tag</th>
+                <th>Observação</th>
+                <th>Data</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in dados %}
+            <tr>
+                <td>{{ item['Nome'] }}</td>
+                <td>{{ item['Marca'] }}</td>
+                <td>{{ item['ID'] }}</td>
+                <td>{{ item['Quantidade'] }}</td>
+                <td>{{ item['Tag'] }}</td>
+                
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
