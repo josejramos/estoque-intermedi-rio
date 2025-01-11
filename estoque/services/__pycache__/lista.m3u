@@ -65,8 +65,6 @@ https://super-cdn.link/sportv3/index.m3u8
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
 
-############################################################################ CANAIS ESPORTES
-
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports SD
 https://cdn-1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
 
@@ -235,10 +233,6 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/103
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Canais | VARIEDADES",E! FHD
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/4QWoV1Z.png" group-title="Canais | VARIEDADES",ARTE 1
-https://cdn-2.nxplay.com.br/ARTE1_TK/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais | VARIEDADES",Film & Arts HD
 https://cdn-5.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
@@ -364,7 +358,7 @@ https://cdn-4.nxplay.com.br/HGTV_BR_NX/tracks-v1a1/mono.m3u8
 https://cdn-4.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD
-https://cdn-4.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659678
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Canais | VARIEDADES",Rakuten Documentários | português e inglês
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
@@ -435,13 +429,7 @@ http://altv1.top:80/Tourobox1-YCOLKg0TKT/CzsVW7Mq9z/124.ts
 https://cr7v.short.gy/live3/vv/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas SD
-https://cdn-2.nxplay.com.br/TNT_NOVELAS_TK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
-https://cdn-2.nxplay.com.br/TNT_NOVELAS_TK/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas FHD
-https://cdn-3.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659809
 
 #EXTINF:-1 tvg-logo="https://imgur.com/O9bIhIR.png" group-title="Canais | NOVELAS",PLUTO TV NOVELAS
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
@@ -547,12 +535,6 @@ https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E HD
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN SD
-https://cdn-1.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD 
-https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network HD
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/695.m3u8
@@ -723,23 +705,11 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="Canais | FILMES E SERIES",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Rrc1oee.png" group-title="Canais | FILMES E SERIES",Bora Filmes
-http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Canais | FILMES E SERIES",Cine Monde
-https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N4W3VoB.png" group-title="Canais | FILMES E SERIES",EuropaPlay Nacional 
-https://cdn-2.nxplay.com.br/europaplay/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais | FILMES E SERIES",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IFcA4UO.png" group-title="Canais | FILMES E SERIES",TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ManoTV
-
-#EXTINF:-1  tvg-logo="https://imgur.com/u8XN65I.png" group-title="Canais | FILMES E SERIES",CHANNEL ONE 
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MoonTV_logo.png" group-title="Canais | FILMES E SERIES",Moon Plus TV
 https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8
@@ -906,6 +876,9 @@ http://xciptv.8888play.one:80/228463308/r576049x/272707
  
 ############################################################################ Canais | VARIEDADES
 
+#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ANIMAL PLANET HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659678
+
 #EXTINF:-1 tvg-logo="https://imgur.com/4TL4mVH.png" group-title="Canais | VARIEDADES",Pluto TV Viagens 
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
@@ -930,6 +903,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Canais | VARIEDADES",Smithsonian Channel Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: NATIONAL GEOGRAPHIC HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659761
 ############################################################################ Canais | COMÉDIA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Canais | VARIEDADES",Tratamento de Choque
