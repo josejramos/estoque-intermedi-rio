@@ -78,62 +78,25 @@ http://dzcdn.vood.top/hls/695_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony One" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main /logos/sonyemo.webp",Sony One Emoções
 
-
-
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sonychannel.webp",Sony
-
-
-
 https://super-cdn.link/sonychannel/video.m3u8
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="AXN.HD.br" tvg-name="AXN" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/axn.webp",AXN
-
-
-
 https://super-cdn.link/axn/index.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-name="Cinemax" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cinemax.png",Cinemax
-
-
-
 https://super-cdn.link/cinemax/video.m3u8
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="Espaço.HD.br" tvg-name="Espaço" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/space.webp",Espaço
-
-
-
 https://super-cdn.link/space/video.m3u8
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="Star Channel" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/starc.png",Star Channel
@@ -305,26 +268,11 @@ http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/108
 
 
 #EXTINF:-1 tvg-id="Universal.TV.HD.br" tvg-name="Universal TV" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/universaltv.png",Universal Tv
-
-
-
 https://super-cdn.link/universaltv/index.m3u8
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="Warner" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/warner.png",Warner
-
-
-
 https://super-cdn.link/warnerchannel/index.m3u8
-
-
-
-
 
 
 
@@ -333,25 +281,11 @@ https://super-cdn.link/warnerchannel/index.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads /main/logos/cnito.png",Cartoonito
-
-
-
 https://super-cdn.link/cartoonito/index.m3u8
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cn.webp",Cartoon Network
-
-
-
 https://super-cdn.link/cartoonnetwork/video.m3u8
 
 
@@ -453,37 +387,18 @@ https://super-cdn.link/discoverychannel/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryworld.png",Discovery World
-
-
-
 http://15.235.50.112:14112/DiscoveryWorld
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="Curta!.HD.br" tvg-name="Curta!" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/curta.png",Curta!
-
-
-
 http://15.235.50.114:19171/Curta
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Nat.Geo.HD.br" tvg-name="Nat Geo" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/natgeo.webp",National Geographic
-
-
-
 https://super-cdn.link/nationalgeographic/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title=" Documentários",Pluto TV Animais
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
