@@ -1,8 +1,3 @@
-#EXTM3U
-
-############################################################################ Informações 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",20/11/2024
 
 ############################################################################ Canais | ABERTO
 
@@ -69,71 +64,6 @@ https://super-cdn.link/sportv3/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
-
-############################################################################ CANAIS ESPN
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN SD 
-https://cdn-2.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8 
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
-https://cr7v.short.gy/ManoT/spn/075991634025/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD [Alter]
-https://cr7v.short.gy/ManoT/spn/075991634025/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/131 
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name= "ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD [Alterar] 
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg- logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 SD 
-https://cdn-2.nxplay.com.br/ESPN_2/tracks-v1a1/mono.m3u8 
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD 
-https://cdn-2.nxplay.com.br/ESPN_2/index.m3u8 
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
-https://super-cdn.link/espn2/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo= "https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 FHD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/135 
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 4k 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/129 
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo= "https://imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 SD 
-https://cdn-2.nxplay.com.br/ESPN_3/tracks-v1a1/mono.m3u8 
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD 
-https://cdn-2.nxplay.com.br/ESPN_3/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 UHD
-https://super-cdn.link/espn3/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 FHD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/126
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 4k 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/127 
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 SD 
-https://cdn-2.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8 
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD 
-https://cdn-2.nxplay.com.br/ESPN_4/index.m3u8 
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 UHD
-https://super-cdn.link/espn4/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4k 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/142 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134
 
 ############################################################################ CANAIS ESPORTES
 
@@ -983,48 +913,6 @@ https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | SÉRIES",XENA 24h
 http://xciptv.8888play.one:80/228463308/r576049x/272707
  
-############################################################################ Canais | MÚSICA 
-
-#EXTINF:-1 tvg-id="MTV Biggest Pop" tvg-name="MTV Biggest Pop" tvg-logo="https://imgur.com/8uGhB6m.png" group-title="Canais | MÚSICA",MTV Biggest Pop
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aa3200-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93901adb-1cd6-4054-9f35-6f3746b30848&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="MTV Spankin' New" tvg-name="MTV Spankin' New" tvg-logo="https://imgur.com/jXhTsl7.png" group-title="Canais | MÚSICA",MTV Spankin' New
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="Pluto TV Shows por Stingray" tvg-logo="https://imgur.com/3roKMCE.png" group-title="Canais | MÚSICA",Pluto TV Shows por Stingray
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d759160-c883-11eb-a960-3d434807f51f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59dd21f-38ed-446d-8348-e9e4b6640131&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="Canais | MÚSICA",Pluto TV Karaokê por Stingray
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G5SWqHS.png" group-title="Canais | MÚSICA",TOP TV FHD
-https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/XDtxWAE.png" group-title="Canais | MÚSICA",Rede Sulamérica TV SD
-https://stmv1.voxtvhd.com.br/redesulamericatv/redesulamericatv/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/wE5uBK7.png" group-title="Canais | MÚSICA",MaisUm
-https://stream.ichibantv.com:3230/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39jD05N.png" group-title="Canais | MÚSICA",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/yi81Qe0.png" group-title="Canais | MÚSICA",Canal 019 
-https://stmv1.srvstm.com/bruno4723/bruno4723/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/yF42kfj.png" group-title="Canais | MÚSICA",POP PEGAJOSO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="Canais | MÚSICA",Kiss TV
-https://isaocorp.cloudecast.com/kisstv/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6hDnWxA.png" group-title="Canais | MÚSICA",Hallo Music
-https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/47oBUBM.png" group-title="Canais | MÚSICA",Gospel Music TV
-https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-
-
 ############################################################################ Canais | VARIEDADES
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4TL4mVH.png" group-title="Canais | VARIEDADES",Pluto TV Viagens 
