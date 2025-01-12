@@ -77,8 +77,9 @@ http://super-cdn.link/tnt/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Filmes",TNT Séries HD [Alter]
 https://abrir.me/ZAMGd?ManoTV
 
-#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Filmes",Lifetime SD
-https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Filmes",MEGAPIX HD [Alter]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/998
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="Filmes",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
