@@ -122,6 +122,16 @@ https://super-cdn.link/warnerchannel/index.m3u8
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320
 
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/253
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/267
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/262
+
+
 # Documentários
 
 #EXTINF:-1 tvg-id="Animal.Planet.br" tvg-name="Animal Planet" group-title="Documentários" tvg-logo="https://imgur.com/t97qwNh.png",Animal Planet
@@ -286,7 +296,7 @@ https://super-cdn.link/sportv3/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere Clubes
-https://super-cdn.link/premiereclubes/index.m3u8
+https://cr7v.short.gy/M/Clube/Index.m3u8
 
 
 #EXTINF:-1 tvg-id="Premiere.HD2.br" tvg-name="Premiere 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 2
