@@ -38,7 +38,7 @@ https://super-cdn.link/sonychannel/video.m3u8
 #EXTINF:-1 tvg-id="AXN.HD.br" tvg-name="AXN" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/axn.png?raw=true",AXN
 https://super-cdn.link/axn/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-name="Cinemax" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/cinemax.png?raw=true",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-name="Cinemax" group-title="Filmes" tvg-logo="https://imgur.com/v3a4Afr.png",Cinemax
 https://super-cdn.link/cinemax/video.m3u8
 
 #EXTINF:-1 tvg-id="Space.HD.br" tvg-name="Space" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/space.png?raw=true",Space
@@ -50,19 +50,19 @@ https://super-cdn.link/starchannel/video.m3u8
 #EXTINF:-1 tvg-id="USA.HD.br" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
 https://super-cdn.link/usa/index.m3u8
 
-#EXTINF:-1 tvg-id="FX.HD.br" tvg-name="FX" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/fx.png?raw=true",FX
+#EXTINF:-1 tvg-id="FX.HD.br" tvg-name="FX" group-title="Filmes" tvg-logo="https://imgur.com/szGH75G.png",FX
 https://stream1.freetv.fun/2cea890736aa8781a48a0e9ac24bad82e110c6ee8cd15a43b57608ea41ae9678.m3u8
 
-#EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/hbo.png?raw=true",HBO
+#EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" group-title="Filmes" tvg-logo="https://imgur.com/IKjcTJH.png",HBO
 https://super-cdn.link/hbo/video.m3u8
 
-#EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO2" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/hbo2.png?raw=true",HBO2
+#EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO2" group-title="Filmes" tvg-logo="https://imgur.com/smM7mYc.png",HBO2
 https://super-cdn.link/hbo2/video.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/hbomundi.png?raw=true",HBO Mundi
 http://dzcdn.vood.top:80/hls/18771_.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-name="HBO Plus" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/hbo_plus.png?raw=true",HBO Plus
+#EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-name="HBO Plus" group-title="Filmes" tvg-logo="https://imgur.com/VGBP9wj.png",HBO Plus
 https://super-cdn.link/hboplus/video.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Filmes ",Studio Universal FHD
@@ -101,7 +101,7 @@ https://super-cdn.link/cartoonnetwork/video.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Desenhos | FILMES E SERIES",Disney Channel HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 
-#EXTINF:-1 tvg-id="Discovery.Kids.HD.br" tvg-name="Discovery Kids" group-title="Desenhos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/discovery_kids.png?raw=true",Discovery Kids
+#EXTINF:-1 tvg-id="Discovery.Kids.HD.br" tvg-name="Discovery Kids" group-title="Desenhos" tvg-logo="https://imgur.com/WxKCkhL.png",Discovery Kids
 http://15.235.50.115:14561/DiscoveryKids
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/nickelodeon.png?raw=true",Nickelodeon
@@ -124,10 +124,10 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320
 #EXTINF:-1 tvg-id="Animal.Planet.br" tvg-name="Animal Planet" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/animal_planet.png?raw=true",Animal Planet
 https://super-cdn.link/animalplanet/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/discovery_channel.png?raw=true",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
 https://super-cdn.link/discoverychannel/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/discovery_world.png?raw=true",Discovery World
+#EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://imgur.com/6sTkahx.png",Discovery World
 http://15.235.50.112:14112/DiscoveryWorld
 
 #EXTINF:-1 tvg-id="Curta!.HD.br" tvg-name="Curta!" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/curta.png?raw=true",Curta!
@@ -206,7 +206,7 @@ https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
 https://super-cdn.link/band/index.m3u8
 
 
-#EXTINF:-1 tvg-id="GLOBO.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/ main/logos/globo.png",Globo
+#EXTINF:-1 tvg-id="GLOBO.br" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/waZJG1M.png",Globo
 https://tv.fazoeli.co.za/m3u8/globorj.m3u8
 
 
