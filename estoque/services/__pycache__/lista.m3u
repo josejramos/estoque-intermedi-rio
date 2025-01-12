@@ -20,13 +20,13 @@ https://super-cdn.link/telecinefun/video.m3u8
 #EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/telecine_touch.png?raw=true",Telecine Touch
 https://super-cdn.link/telecinetouch/video.m3u8
 
-#EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-name="A&E" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/a&e.png?raw=true",A&E
+#EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-name="A&E" group-title="Filmes" tvg-logo="https://imgur.com/EYAmbe4.png",A&E
 https://super-cdn.link/aee/video.m3u8
 
-#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/amc.png?raw=true",AMC
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://imgur.com/2lr4rvX.png",AMC
 http://dzcdn.vood.top/hls/669_.m3u8
 
-#EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/paramount_network.png?raw=true",Paramount Network
+#EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://imgur.com/GPcKZ2i.png",Paramount Network
 http://dzcdn.vood.top/hls/695_.m3u8
 
 #EXTINF:-1 tvg-id="Sony.One.HD.br" tvg-name="Sony One" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/sony_one.png?raw=true",Sony One Emoções
@@ -35,7 +35,7 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/sony.png?raw=true",Sony
 https://super-cdn.link/sonychannel/video.m3u8
 
-#EXTINF:-1 tvg-id="AXN.HD.br" tvg-name="AXN" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/axn.png?raw=true",AXN
+#EXTINF:-1 tvg-id="AXN.HD.br" tvg-name="AXN" group-title="Filmes" tvg-logo="https://imgur.com/IaxysZJ.png",AXN
 https://super-cdn.link/axn/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-name="Cinemax" group-title="Filmes" tvg-logo="https://imgur.com/v3a4Afr.png",Cinemax
@@ -104,7 +104,7 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 #EXTINF:-1 tvg-id="Discovery.Kids.HD.br" tvg-name="Discovery Kids" group-title="Desenhos" tvg-logo="https://imgur.com/WxKCkhL.png",Discovery Kids
 http://15.235.50.115:14561/DiscoveryKids
 
-#EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/nickelodeon.png?raw=true",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https://imgur.com/vYFZ98f.png",Nickelodeon
 https://super-cdn.link/nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-id="KidsMais.HD.br" tvg-name="Kids Mais" group-title="Desenhos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/unnamed_4cMwnRI.png",Kids Mais
@@ -121,7 +121,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320
 
 # Documentários
 
-#EXTINF:-1 tvg-id="Animal.Planet.br" tvg-name="Animal Planet" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/animal_planet.png?raw=true",Animal Planet
+#EXTINF:-1 tvg-id="Animal.Planet.br" tvg-name="Animal Planet" group-title="Documentários" tvg-logo="https://imgur.com/t97qwNh.png",Animal Planet
 https://super-cdn.link/animalplanet/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
@@ -213,11 +213,11 @@ https://tv.fazoeli.co.za/m3u8/globorj.m3u8
 #EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
 https://super-cdn.link/record/index.m3u8
 
-#EXTINF:-1 tvg-id="REDETV.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/ heads/main/logos/redetv.png",Rede TV
+#EXTINF:-1 tvg-id="REDETV.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/EgKx2J1.png",Rede TV
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
 
 
-#EXTINF:-1 tvg-id="Rede.Vida.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/ refs/heads/main/logos/redevd.png",Rede Vida
+#EXTINF:-1 tvg-id="Rede.Vida.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/0uNleBN.png",Rede Vida
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 
 
