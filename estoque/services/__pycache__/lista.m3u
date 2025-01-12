@@ -1,405 +1,113 @@
-
-
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_BR.xml"
-
-
 
 # Filmes
 
-
-
-#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="Telecine Action" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tca.png",Telecine Action
-
+#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="Telecine Action" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/telecine_action.png?raw=true",Telecine Action
 https://super-cdn.link/telecineaction/video.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-name="Telecine Premium" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/ refs/heads/main/logos/tcpre.png",Telecine Premium
-
+#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-name="Telecine Premium" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/telecine_premium.png?raw=true",Telecine Premium
 https://super-cdn.link/telecinepremium/video.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="Telecine Pipoca" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/ baselist/refs/heads/main/logos/tcp.png",Telecine Pipoca
-
+#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="Telecine Pipoca" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/telecine_pipoca.png?raw=true",Telecine Pipoca
 https://super-cdn.link/telecinepipoca/video.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/ baselist/refs/heads/main/logos/tcc.png",Telecine Cult
-
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/telecine_cult.png?raw=true",Telecine Cult
 https://super-cdn.link/telecinecult/video.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/ baselist/refs/heads/main/logos/tcf.png",Telecine Fun
-
+#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/telecine_fun.png?raw=true",Telecine Fun
 https://super-cdn.link/telecinefun/video.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/ baselist/refs/heads/main/logos/tct.png",Telecine Touch
-
+#EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/telecine_touch.png?raw=true",Telecine Touch
 https://super-cdn.link/telecinetouch/video.m3u8
 
-
-
-#EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-name="A&E" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/aee.webp",A&E
-
+#EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-name="A&E" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/a&e.png?raw=true",A&E
 https://super-cdn.link/aee/video.m3u8
 
-
-
-#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/amc.webp",AMC
-
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/amc.png?raw=true",AMC
 http://dzcdn.vood.top/hls/669_.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/paramountnet.webp",Paramount
-
-
-
+#EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/paramount_network.png?raw=true",Paramount Network
 http://dzcdn.vood.top/hls/695_.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Sony One" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main /logos/sonyemo.webp",Sony One Emoções
-
+#EXTINF:-1 tvg-id="Sony.One.HD.br" tvg-name="Sony One" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/sony_one.png?raw=true",Sony One Emoções
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sonychannel.webp",Sony
+#EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/sony.png?raw=true",Sony
 https://super-cdn.link/sonychannel/video.m3u8
 
-
-#EXTINF:-1 tvg-id="AXN.HD.br" tvg-name="AXN" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/axn.webp",AXN
+#EXTINF:-1 tvg-id="AXN.HD.br" tvg-name="AXN" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/axn.png?raw=true",AXN
 https://super-cdn.link/axn/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-name="Cinemax" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cinemax.png",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-name="Cinemax" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/cinemax.png?raw=true",Cinemax
 https://super-cdn.link/cinemax/video.m3u8
 
-
-#EXTINF:-1 tvg-id="Espaço.HD.br" tvg-name="Espaço" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/space.webp",Espaço
+#EXTINF:-1 tvg-id="Space.HD.br" tvg-name="Space" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/space.png?raw=true",Space
 https://super-cdn.link/space/video.m3u8
 
-
-#EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="Star Channel" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/starc.png",Star Channel
-
-
-
+#EXTINF:-1 tvg-id="Star.Channel.HD.br" tvg-name="Star Channel" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/star_channel.png?raw=true",Star Channel
 https://super-cdn.link/starchannel/video.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="USA.HD.br" tvg-name="USA" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/usa.png",USA
-
-
-
+#EXTINF:-1 tvg-id="USA.HD.br" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
 https://super-cdn.link/usa/index.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="FX.HD.br" tvg-name="FX" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/fx.webp",FX
-
-
-
+#EXTINF:-1 tvg-id="FX.HD.br" tvg-name="FX" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/fx.png?raw=true",FX
 https://stream1.freetv.fun/2cea890736aa8781a48a0e9ac24bad82e110c6ee8cd15a43b57608ea41ae9678.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbo.webp",HBO
-
-
-
+#EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/hbo.png?raw=true",HBO
 https://super-cdn.link/hbo/video.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO2" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbo2.webp",HBO2
-
-
-
+#EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO2" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/hbo2.png?raw=true",HBO2
 https://super-cdn.link/hbo2/video.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbom.png",HBO Mundi
-
-
-
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/hbomundi.png?raw=true",HBO Mundi
 http://dzcdn.vood.top:80/hls/18771_.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-name="HBO Plus" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hboplus.webp",HBO Plus
-
-
-
+#EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-name="HBO Plus" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/hbo_plus.png?raw=true",HBO Plus
 https://super-cdn.link/hboplus/video.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="HBO.Family.HD.br" tvg-name="Família HBO" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbofamily.webp",Família HBO
-
-
-
-https://super-cdn.link/hbofamily/video.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO Xtreme" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbox.png",HBO Xtreme
-
-
-
-https://super-cdn.link/hboxtreme/video.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Megapix.HD.br" tvg-name="Megapix" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/megapix.png",Megapix
-
-
-
-https://super-cdn.link/megapix/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Studio.Universal.br" tvg-name="Studio Universal" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/studiouniversal.webp",Studio Universal
-
-
-
-https://super-cdn.link/studiouniversal/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tnt.webp",TNT
-
-
-
-https://super-cdn.link/tnt/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="TNT.Novelas.br" tvg-name="TNT Novelas" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tntn.png",TNT Novelas
-
-
-
-https://super-cdn.link/tntnovelas/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-name="Séries TNT" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tntseries.png",Séries TNT
-
-
-
-http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/108
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Universal.TV.HD.br" tvg-name="Universal TV" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/universaltv.png",Universal Tv
-https://super-cdn.link/universaltv/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="Warner" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/warner.png",Warner
-https://super-cdn.link/warnerchannel/index.m3u8
-
-
 
 # Desenhos
 
-
-
-
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads /main/logos/cnito.png",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito" group-title="Desenhos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/cartoonito.png?raw=true",Cartoonito
 https://super-cdn.link/cartoonito/index.m3u8
 
-
-#EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cn.webp",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon Network" group-title="Desenhos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/cartoon_network.png?raw=true",Cartoon Network
 https://super-cdn.link/cartoonnetwork/video.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Disney.HD.br" tvg-name="Disney" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs /heads/main/logos/disneychannel.png",Disney Channel
-
-
-
+#EXTINF:-1 tvg-id="Disney.HD.br" tvg-name="Disney Channel" group-title="Desenhos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/disney_channel.png?raw=true",Disney Channel
 http://15.235.50.115:14563/DisneyChannel
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Discovery.Kids.HD.br" tvg-name="Discovery Kids" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dkids.png",Discovery Kids
-
-
-
+#EXTINF:-1 tvg-id="Discovery.Kids.HD.br" tvg-name="Discovery Kids" group-title="Desenhos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/discovery_kids.png?raw=true",Discovery Kids
 http://15.235.50.115:14561/DiscoveryKids
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/nik.png",Nickelodeon
-
-
-
+#EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/nickelodeon.png?raw=true",Nickelodeon
 https://super-cdn.link/nickelodeon/index.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/unnamed_4cMwnRI.png",Kids Mais
-
-
-
+#EXTINF:-1 tvg-id="KidsMais.HD.br" tvg-name="Kids Mais" group-title="Desenhos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/unnamed_4cMwnRI.png",Kids Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/rc.png", Desenho animado retrô
-
-
-
+#EXTINF:-1 tvg-id="Retro.HD.br" tvg-name="Desenho Animado Retrô" group-title="Desenhos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/retro_tv.png?raw=true",Desenho Animado Retrô
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
-
-
-
-
-
 
 # Documentários
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Animal.Planet.br" tvg-name="Animal Planet" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/ap.webp",Animal Planet
-
-
-
+#EXTINF:-1 tvg-id="Animal.Planet.br" tvg-name="Animal Planet" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/animal_planet.png?raw=true",Animal Planet
 https://super-cdn.link/animalplanet/index.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discovery.webp",Discovery Channel
-
-
-
+#EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/discovery_channel.png?raw=true",Discovery Channel
 https://super-cdn.link/discoverychannel/index.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryworld.png",Discovery World
+#EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/discovery_world.png?raw=true",Discovery World
 http://15.235.50.112:14112/DiscoveryWorld
 
-
-#EXTINF:-1 tvg-id="Curta!.HD.br" tvg-name="Curta!" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/curta.png",Curta!
+#EXTINF:-1 tvg-id="Curta!.HD.br" tvg-name="Curta!" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/curta.png?raw=true",Curta!
 http://15.235.50.114:19171/Curta
 
-#EXTINF:-1 tvg-id="Nat.Geo.HD.br" tvg-name="Nat Geo" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/natgeo.webp",National Geographic
+#EXTINF:-1 tvg-id="Nat.Geo.HD.br" tvg-name="National Geographic" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/national_geographic.png?raw=true",National Geographic
 https://super-cdn.link/nationalgeographic/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title=" Documentários",Pluto TV Animais
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 
 
@@ -437,17 +145,8 @@ https://stream1.freetv.fun/cf48eb9b171e93d765a69684aa345e11597a6a972452a2d810d6f
 
 
 
-
-
 #EXTINF:-1 tvg-id="History.2.br" tvg-name="History 2" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history2.webp",History 2
-
-
-
 https://super-cdn.link/history2/index.m3u8
-
-
-
-
 
 
 
