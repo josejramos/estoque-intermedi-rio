@@ -38,8 +38,8 @@ https://super-cdn.link/sonychannel/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
 https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN.HD.br" tvg-name="AXN" group-title="Filmes" tvg-logo="https://imgur.com/IaxysZJ.png",AXN
-https://super-cdn.link/axn/index.m3u8
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://p6.vc/APX" group-title="Filmes",AXN [HD]
+http://pfsv.io:80/6705646555/60670/301.ts
 
 #EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-name="Cinemax" group-title="Filmes" tvg-logo="https://imgur.com/v3a4Afr.png",Cinemax
 https://super-cdn.link/cinemax/video.m3u8
@@ -134,8 +134,11 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/262
 
 # Documentários
 
-#EXTINF:-1 tvg-id="Animal.Planet.br" tvg-name="Animal Planet" group-title="Documentários" tvg-logo="https://imgur.com/t97qwNh.png",Animal Planet
-https://super-cdn.link/animalplanet/index.m3u8
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [FHD][H265]" tvg-logo="http://p6.vc/WHO" group-title="Documentários",ANIMAL PLANET [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30248.ts
+
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
+http://pfsv.io:80/6705646555/60670/179.ts
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
 https://super-cdn.link/discoverychannel/index.m3u8
