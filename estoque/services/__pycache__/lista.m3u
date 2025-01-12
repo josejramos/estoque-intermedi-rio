@@ -2,22 +2,22 @@
 
 # Filmes
 
-#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="Telecine Action" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/telecine_action.png?raw=true",Telecine Action
+#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="Telecine Action" group-title="Filmes" tvg-logo="https://imgur.com/faV3eZx.png",Telecine Action
 https://super-cdn.link/telecineaction/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-name="Telecine Premium" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/telecine_premium.png?raw=true",Telecine Premium
+#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-name="Telecine Premium" group-title="Filmes" tvg-logo="https://imgur.com/SGr7sdL.png",Telecine Premium
 https://super-cdn.link/telecinepremium/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="Telecine Pipoca" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/telecine_pipoca.png?raw=true",Telecine Pipoca
+#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="Telecine Pipoca" group-title="Filmes" tvg-logo="https://imgur.com/cPTZMTo.png",Telecine Pipoca
 https://super-cdn.link/telecinepipoca/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/telecine_cult.png?raw=true",Telecine Cult
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://i.imgur.com/Tavo4Zl.png",Telecine Cult
 https://super-cdn.link/telecinecult/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/telecine_fun.png?raw=true",Telecine Fun
+#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://i.imgur.com/eo6Js8D.png",Telecine Fun
 https://super-cdn.link/telecinefun/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/telecine_touch.png?raw=true",Telecine Touch
+#EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://i.imgur.com/viw732w.png",Telecine Touch
 https://super-cdn.link/telecinetouch/video.m3u8
 
 #EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-name="A&E" group-title="Filmes" tvg-logo="https://imgur.com/EYAmbe4.png",A&E
@@ -32,8 +32,11 @@ http://dzcdn.vood.top/hls/695_.m3u8
 #EXTINF:-1 tvg-id="Sony.One.HD.br" tvg-name="Sony One" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/sony_one.png?raw=true",Sony One Emoções
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/sony.png?raw=true",Sony
+#EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://i.imgur.com/18X62CK.png",Sony
 https://super-cdn.link/sonychannel/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
+https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN.HD.br" tvg-name="AXN" group-title="Filmes" tvg-logo="https://imgur.com/IaxysZJ.png",AXN
 https://super-cdn.link/axn/index.m3u8
@@ -41,10 +44,10 @@ https://super-cdn.link/axn/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-name="Cinemax" group-title="Filmes" tvg-logo="https://imgur.com/v3a4Afr.png",Cinemax
 https://super-cdn.link/cinemax/video.m3u8
 
-#EXTINF:-1 tvg-id="Space.HD.br" tvg-name="Space" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/space.png?raw=true",Space
+#EXTINF:-1 tvg-id="Space.HD.br" tvg-name="Space" group-title="Filmes" tvg-logo="https://imgur.com/RxETCgZ.png",Space
 https://super-cdn.link/space/video.m3u8
 
-#EXTINF:-1 tvg-id="Star.Channel.HD.br" tvg-name="Star Channel" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/star_channel.png?raw=true",Star Channel
+#EXTINF:-1 tvg-id="Star.Channel.HD.br" tvg-name="Star Channel" group-title="Filmes" tvg-logo="https://imgur.com/TCrKgcu.png",Star Channel
 https://super-cdn.link/starchannel/video.m3u8
 
 #EXTINF:-1 tvg-id="USA.HD.br" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
@@ -270,15 +273,15 @@ https://super-cdn.link/espn6/index.m3u8
 http://dzcdn.vood.top/hls/232_.m3u8
 
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads /main/logos/sportv.png",Sportv
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv
 https://super-cdn.link/sportv/index.m3u8
 
 
-#EXTINF:-1 tvg-id="SporTV.2.br" tvg-name="SporTV 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/ refs/heads/main/logos/sportv2.png",Sportv 2
+#EXTINF:-1 tvg-id="SporTV.2.br" tvg-name="SporTV 2" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv 2
 https://super-cdn.link/sportv2/index.m3u8
 
 
-#EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/ refs/heads/main/logos/sportv3.png",Sportv 3
+#EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://imgur.com/ttHpdGp.png"",Sportv 3
 https://super-cdn.link/sportv3/index.m3u8
 
 
