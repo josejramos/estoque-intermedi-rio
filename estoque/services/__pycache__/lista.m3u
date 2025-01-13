@@ -38,22 +38,8 @@ https://super-cdn.link/sonychannel/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
 https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
 
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN [4K]" tvg-logo="http://p6.vc/H" group-title="Canais | 4K",AXN [4K]
-http://pfsv.io:80/6705646555/60670/50863.ts
-#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [FHD]" tvg-logo="http://p6.vc/APR" group-title="Canais | Filmes e Séries",AXN [FHD]
-http://pfsv.io:80/6705646555/60670/295.ts
-#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [FHD] LEG" tvg-logo="http://p6.vc/WID" group-title="Canais | Legendados",AXN [FHD] LEG
-http://pfsv.io:80/6705646555/60670/122939.ts
-#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [FHD][H265]" tvg-logo="http://p6.vc/WGX" group-title="Canais | Filmes e Séries",AXN [FHD][H265]
-http://pfsv.io:80/6705646555/60670/30206.ts
 #EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries",AXN [HD]
 http://pfsv.io:80/6705646555/60670/301.ts
-#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD] LEG" tvg-logo="http://p6.vc/WIB" group-title="Canais | Legendados",AXN [HD] LEG
-http://pfsv.io:80/6705646555/60670/122933.ts
-#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [SD]" tvg-logo="http://p6.vc/AQT" group-title="Canais | Filmes e Séries",AXN [SD]
-http://pfsv.io:80/6705646555/60670/326.ts
-#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [SD] LEG" tvg-logo="http://p6.vc/WIC" group-title="Canais | Legendados",AXN [SD] LEG
-http://pfsv.io:80/6705646555/60670/122934.ts
 
 #EXTINF:-1 tvg-id="Space.HD.br" tvg-name="Space" group-title="Filmes" tvg-logo="https://imgur.com/RxETCgZ.png",Space
 https://super-cdn.link/space/video.m3u8
