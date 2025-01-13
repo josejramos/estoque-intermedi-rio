@@ -20,8 +20,8 @@ https://super-cdn.link/telecinefun/video.m3u8
 #EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://i.imgur.com/viw732w.png",Telecine Touch
 https://super-cdn.link/telecinetouch/video.m3u8
 
-#EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-name="A&E" group-title="Filmes" tvg-logo="https://imgur.com/EYAmbe4.png",A&E
-https://super-cdn.link/aee/video.m3u8
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://p6.vc/APV" group-title="Filmes",A&E [HD]
+http://pfsv.io:80/6705646555/60670/299.ts
 
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://imgur.com/2lr4rvX.png",AMC
 http://dzcdn.vood.top/hls/669_.m3u8
@@ -83,7 +83,6 @@ https://abrir.me/ZAMGd?ManoTV
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Filmes",MEGAPIX HD [Alter]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/998
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="Filmes",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
 
@@ -92,6 +91,23 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="Filmes",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes",Warner Channel HD
+https://super-cdn.link/warnerchannel/index.m3u8
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes",Warner Channel FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/253
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Filmes",HBO Xtreme FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/267
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Filmes",HBO SIGNATURE FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/262
+
 
 # Desenhos
 
@@ -116,21 +132,6 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro.HD.br" tvg-name="Desenho Animado Retrô" group-title="Desenhos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/retro_tv.png?raw=true",Desenho Animado Retrô
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD
-https://super-cdn.link/warnerchannel/index.m3u8
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320
-
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/253
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/267
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/262
-
 
 # Documentários
 
@@ -149,9 +150,8 @@ http://15.235.50.112:14112/DiscoveryWorld
 #EXTINF:-1 tvg-id="Curta!.HD.br" tvg-name="Curta!" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/curta.png?raw=true",Curta!
 http://15.235.50.114:19171/Curta
 
-#EXTINF:-1 tvg-id="Nat.Geo.HD.br" tvg-name="National Geographic" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/national_geographic.png?raw=true",National Geographic
-https://super-cdn.link/nationalgeographic/index.m3u8
-
+#EXTINF:-1 tvg-id="BR - National Geographic" tvg-name="NATIONAL GEOGRAPHIC [HD]" tvg-logo="http://p6.vc/ALX" group-title="Documentários",NATIONAL GEOGRAPHIC [HD]
+http://pfsv.io:80/6705646555/60670/191.ts
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title=" Documentários",Pluto TV Animais
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -176,18 +176,10 @@ https://stream1.freetv.fun/cf48eb9b171e93d765a69684aa345e11597a6a972452a2d810d6f
 #EXTINF:-1 tvg-id="History.2.br" tvg-name="History 2" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history2.webp",History 2
 https://super-cdn.link/history2/index.m3u8
 
-
-
-# Músicas
-
-
+# Diversos
 
 #EXTINF:-1 tvg-id="BIS.HD.br" tvg-name="Bis" group-title="Música" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/bis.png",Bis
 https://super-cdn.link/bis/index.m3u8
-
-
-# Diversos
-
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-name="Comedy Central" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
 https://super-cdn.link/comedycentral/index.m3u8
@@ -198,7 +190,6 @@ https://super-cdn.link/gnt/index.m3u8
 
 #EXTINF:-1 tvg-id="Viva.HD.br" tvg-name="Viva" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs /heads/main/logos/viva.webp",VIVA
 https://live-as-04-27.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb 3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDQtMjcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM2MTE4Nz g4LCJpYXQiOjE3MzYwMzIzODgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNjFlMTBhNmYtNDRhNi00MmQ5LThiMjEtMmQ1ZTkyOTc3NzdmIiwicGF0aCI6Ii9saXZlL2YoYk1pbj0yMDAwKS92aXZhMjRoYS9wbGF5bGlzdC5tM3U4 In0.vMQiYToaAylLNjdh4xDoqnWRkoMk0mkNVJWdmPGihYLEW3Apg3blYE7K-ueHyrR-GFGdEzaedoI-X1Eqfl-e5KrlpBdg ZZ-di5b7f1X4_AiwVxabrY2svmBDwQyQ6zOpYDKTjeC1sxzEpvj1GvbUVtkR6yICCJXuGG6SVikB7OrteX4BXtDZpFd8_MZoA BjQI_fUJzxtdoUehrvq3yOxksvYnF3nqPinGXmBxkTLLoL0ByTVBRNX8UChLMzciGYJqi-dI6SSCifkdtBJchF3M-loNKoVTS WP7iBXtlqWdJXwwhvSg7FkVAye4UJdn9JxcAYyw-SOxcH75e4C76UroA/live/f(bMin=2000)/viva24ha/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_tVEa6RS.png",Tv Pet
 https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
