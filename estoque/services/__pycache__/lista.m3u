@@ -99,7 +99,7 @@ https://super-cdn.link/warnerchannel/index.m3u8
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes",Warner Channel FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320
 
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family FHD
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Filmes",HBO Family FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/253
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Filmes",HBO Xtreme FHD
@@ -178,7 +178,7 @@ https://super-cdn.link/history2/index.m3u8
 
 # Diversos
 
-#EXTINF:-1 tvg-id="BIS.HD.br" tvg-name="Bis" group-title="Música" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/bis.png",Bis
+#EXTINF:-1 tvg-id="BIS.HD.br" tvg-name="Bis" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/bis.png",Bis
 https://super-cdn.link/bis/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-name="Comedy Central" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
@@ -196,6 +196,9 @@ https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Canais | NOVELAS",Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS [HD]" tvg-logo="" group-title="Canais",TNT NOVELAS [HD]
+http://pfsv.io:80/6705646555/60670/148422.ts
 
 # Jornalismo
 
