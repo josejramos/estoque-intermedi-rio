@@ -42,10 +42,10 @@ https://super-cdn.link/sonychannel/video.m3u8
 https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries",AXN [HD]
-http://pfsv.io:80/6705646555/60670/301.ts
+https://super-cdn.link/axn/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD [Alter]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/278
+https://super-cdn.link/space/index.m3u8
 
 #EXTINF:-1 tvg-id="Star.Channel.HD.br" tvg-name="Star Channel" group-title="Filmes" tvg-logo="https://imgur.com/TCrKgcu.png",Star Channel
 https://super-cdn.link/starchannel/video.m3u8
@@ -54,7 +54,7 @@ https://super-cdn.link/starchannel/video.m3u8
 https://super-cdn.link/usa/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.HD.br" tvg-name="FX" group-title="Filmes" tvg-logo="https://imgur.com/szGH75G.png",FX
-https://stream1.freetv.fun/2cea890736aa8781a48a0e9ac24bad82e110c6ee8cd15a43b57608ea41ae9678.m3u8
+https://super-cdn.link/fx/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" group-title="Filmes" tvg-logo="https://imgur.com/IKjcTJH.png",HBO
 https://super-cdn.link/hbo/video.m3u8
@@ -135,11 +135,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 # Documentários
 
-#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [FHD][H265]" tvg-logo="http://p6.vc/WHO" group-title="Documentários",ANIMAL PLANET [FHD][H265]
-http://pfsv.io:80/6705646555/60670/30248.ts
-
 #EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
-http://pfsv.io:80/6705646555/60670/179.ts
+https://super-cdn.link/animalplanet/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
 https://super-cdn.link/discoverychannel/index.m3u8
@@ -252,7 +249,7 @@ https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes" | ESPN",ESPN HD 
-https://cr7v.short.gy/manoitv/spnHD/ZAP075991634025/index.m3u8
+https://super-cdn.link/espn/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 2
 https://super-cdn.link/espn2/index.m3u8
