@@ -29,6 +29,9 @@ http://pfsv.io:80/6705646555/60670/299.ts
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://imgur.com/2lr4rvX.png",AMC
 http://dzcdn.vood.top/hls/669_.m3u8
 
+#EXTINF:-1 tvg-id="BR - Lifetime" tvg-name="LFT [HD]" tvg-logo="" group-title="Filmes",A&E [HD]
+https://super-cdn.link/lifetime/index.m3u8
+
 #EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://imgur.com/GPcKZ2i.png",Paramount Network
 http://dzcdn.vood.top/hls/695_.m3u8
 
