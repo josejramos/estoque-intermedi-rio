@@ -22,7 +22,7 @@ https://super-cdn.link/telecinefun/index.m3u8
 https://super-cdn.link/telecinetouch/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://p6.vc/APV" group-title="Filmes",A&E [HD]
-http://pfsv.io:80/6705646555/60670/299.ts
+https://super-cdn.link/aee/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://imgur.com/2lr4rvX.png",AMC
 https://super-cdn.link/amc/index.m3u8
@@ -82,7 +82,7 @@ http://super-cdn.link/tnt/index.m3u8
 https://abrir.me/ZAMGd?ManoTV
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Filmes",MEGAPIX HD [Alter]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/998
+http://super-cdn.link/megapix/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="Filmes",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
@@ -101,7 +101,7 @@ https://super-cdn.link/warnerchannel/index.m3u8
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Filmes",HBO Family FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/253
+https://super-cdn.link/hbofamily/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Filmes",HBO Xtreme FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/267
@@ -109,6 +109,8 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/267
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Filmes",HBO SIGNATURE FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/262
 
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name=" CN" tvg-logo="" group-title="Filmes",CINEMAX
+https://super-cdn.link/cinemax/index.m3u8
 
 # Desenhos
 
@@ -221,7 +223,7 @@ https://new.m3u8.one/globorj/index.m3u8
 https://new.m3u8.one/globosp/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO.br MG" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/waZJG1M.png",Globo
-https://new.m3u8.one/globosp/index.m3u8
+https://new.m3u8.one/globomg/index.m3u8
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
 https://super-cdn.link/record/index.m3u8
