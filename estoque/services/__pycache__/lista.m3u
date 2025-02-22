@@ -217,16 +217,16 @@ https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
 https://embedcanaistv.site/globosp/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO.br" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/waZJG1M.png",Globo
-https://new.m3u8.one/globorj/index.m3u8
+https://anonlive.net/globorj-globorio/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO.br SP" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/waZJG1M.png",Globo
-https://new.m3u8.one/globosp/index.m3u8
+https://anonlive.net/globosp-globosaopaulo/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO.br MG" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/waZJG1M.png",Globo
-https://new.m3u8.one/globomg/index.m3u8
+https://anonlive.net/globomg-globominas/index.m3u8
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
-https://super-cdn.link/record/index.m3u8
+https://anonlive.net/record/index.m3u8
 
 #EXTINF:-1 tvg-id="REDETV.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/EgKx2J1.png",Rede TV
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
@@ -247,74 +247,64 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 # Esportes
 
 #EXTINF:-1 tvg-id="Combate.HD.br" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/ heads/main/logos/combate.png",Combate
-https://super-cdn.link/combate/index.m3u8
+https://anonlive.net/combate/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos /mavtvbr.webp",MAVTV Brasil
 https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes" | ESPN",ESPN HD 
-https://super-cdn.link/espn/index.m3u8
+https://anonlive.net/espn/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 2
-https://super-cdn.link/espn2/index.m3u8
+https://anonlive.net/espn2/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 3
-https://super-cdn.link/espn3/index.m3u8
-
+https://anonlive.net/espn3/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 4
-https://super-cdn.link/espn4/index.m3u8
-
+https://anonlive.net/espn4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 5" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 5
-https://super-cdn.link/espn5/index.m3u8
-
+https://anonlive.net/espn5/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 6
-https://super-cdn.link/espn6/index.m3u8
-
+https://anonlive.net/espn6/index.m3u8
 
 #EXTINF:-1 tvg-id="Bandsports.HD.br" tvg-name="Band Sports" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/bandsports.png",Band Sports
 http://dzcdn.vood.top/hls/232_.m3u8
 
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv
-https://super-cdn.link/sportv/index.m3u8
-
+https://anonlive.net/sportv/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.2.br" tvg-name="SporTV 2" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv 2
-https://super-cdn.link/sportv2/index.m3u8
-
+https://anonlive.net/sportv2/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://imgur.com/ttHpdGp.png"",Sportv 3
-https://super-cdn.link/sportv3/index.m3u8
-
+https://anonlive.net/sportv3/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere Clubes
 https://cr7v.short.gy/M/Clube/Index.m3u8
 
 
 #EXTINF:-1 tvg-id="Premiere.HD2.br" tvg-name="Premiere 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 2
-https://super-cdn.link/premiere2/index.m3u8
+https://anonlive.net/premiere2/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.3.br" tvg-name="Premiere 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 3
-https://super-cdn.link/premiere3/index.m3u8
+https://anonlive.net/premiere3/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.4.br" tvg-name="Premiere 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 4
-https://super-cdn.link/premiere4/index.m3u8
-
+https://anonlive.net/premiere4/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.5.br" tvg-name="Premiere 5" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 5
-https://super-cdn.link/premiere5/index.m3u8
+https://anonlive.net/premiere5/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Premiere.HD6.br" tvg-name="Premiere 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 6
-https://super-cdn.link/premiere6/index.m3u8
-
+https://anonlive.net/premiere6/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD7.br" tvg-name="Premiere 7" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 7
-
-https://super-cdn.link/premiere7/index.m3u8
+https://anonlive.net/premiere7/index.m3u8
 
 
