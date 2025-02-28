@@ -3,7 +3,7 @@
 # Filmes
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
-https://lvstr.cfd/telecineaction/index.m3u8
+https://stream1.freetv.fun/0dc938f4c85b80b0dd4ef6999e5e091acc1de28fd234e331c49a22afd0c56d01.ctv
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium FHD
 https://lvstr.cfd/telecinepremium/index.m3u8
@@ -102,16 +102,19 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8825
 https://lvstr.cfd/warnerchannel/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Filmes",HBO Family FHD
-http://supersonictv.live:8080/899559/316805/85035
+https://lvstr.cfd/hbofamily/index.m3u8
 
 #EXTINF:-1 tvg-id="https://i.imgur.com/Mkxd6PK.png" group-title="Filmes",HBO Xtreme FHD
-http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/13536
+https://lvstr.cfd/hboxtreme/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Filmes",HBO SIGNATURE FHD
-http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/94387
+https://lvstr.cfd/hbosignature/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name=" CN" tvg-logo="" group-title="Filmes",CINEMAX
 http://supersonictv.live:8080/899559/316805/84948
+
+#EXTINF:-1 tvg-id=MEGAPIX" tvg-name=" MG " tvg-logo="" group-title="Filmes",MEGAPIX
+https://lvstr.cfd/megapix/index.m3u8
 
 # Desenhos
 
@@ -128,7 +131,7 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 http://15.235.50.115:14561/DiscoveryKids
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https://imgur.com/vYFZ98f.png",Nickelodeon
-http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/125446
+https://lvstr.cfd/nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-id="KidsMais.HD.br" tvg-name="Kids Mais" group-title="Desenhos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/unnamed_4cMwnRI.png",Kids Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
@@ -141,6 +144,9 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
 https://lvstr.cfd/animalplanet/index.m3u8
+
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
+https://stream1.freetv.fun/53dc240df506b21c1897af291c2f29f0986ba6fc690f98a95e254e6decdd4a7f.ctv
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
 http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/91396
@@ -157,18 +163,14 @@ https://lvstr.cfd/nationalgeographic/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title=" Documentários",Pluto TV Animais
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
 #EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-name="Discovery Home and Health" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dhh.png",Discovery h&h
 https://super-cdn.link/discoveryheh/index.m3u8
-
 
 #EXTINF:-1 tvg-id="Pluto.TV.Natureza.br" tvg-name="Pluto TV Natureza" group-title="Documentários" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/logo.png",Pluto TV Natureza
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=-18.9500&deviceLon=-48.3500&deviceMake=&deviceModel=&deviceType=&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=&userId=
 
-
 #EXTINF:-1 tvg-id="Discovery.Turbo.HD.br" tvg-name="Discovery Turbo" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryturbo.png",Discovery Turbo
 http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/30156
-
 
 #EXTINF:-1 tvg-id="History.HD.br" tvg-name="History" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history.webp",History
 https://stream1.freetv.fun/cf48eb9b171e93d765a69684aa345e11597a6a972452a2d810d6facb2f66016d.m3u8
