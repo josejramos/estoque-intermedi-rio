@@ -294,3 +294,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8791
 
 #EXTINF:-1 tvg-id="Premiere.HD7.br" tvg-name="Premiere 7" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 7
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8798
+
+#EXTINF:-1 tvg-id="Nosso futebol.br" tvg-name="nosso futebol " group-title="Esportes" tvg-logo=
+https://lvstr.cfd/nossofutebol/index.m3u8
+
