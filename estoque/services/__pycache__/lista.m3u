@@ -75,16 +75,13 @@ http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfve
 https://lvstr.cfd/studiouniversal/index.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/VwFjFMO.png" group-title="Filmes",Universal Channel HD
-https://abrir.me/gncXj?ManoTV
+https://lvstr.cfd/universaltv/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes ",TNT HD
 https://lvstr.cfd/tnt/index.m3u8
 
 #EXTINF:-1  tvg-id="https://imgur.com/vH2tkQt.png" group-title="Filmes",TNT Séries HD [Alter]
 https://abrir.me/ZAMGd?ManoTV
-
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Filmes",MEGAPIX HD [Alter]
-https://lvstr.cfd/warnerchannel/index.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/92rUCKL.png" group-title="Filmes",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
@@ -169,14 +166,8 @@ https://super-cdn.link/discoveryheh/index.m3u8
 #EXTINF:-1 tvg-id="Pluto.TV.Natureza.br" tvg-name="Pluto TV Natureza" group-title="Documentários" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/logo.png",Pluto TV Natureza
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=-18.9500&deviceLon=-48.3500&deviceMake=&deviceModel=&deviceType=&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=&userId=
 
-#EXTINF:-1 tvg-id="Discovery.Turbo.HD.br" tvg-name="Discovery Turbo" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryturbo.png",Discovery Turbo
-http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/30156
-
 #EXTINF:-1 tvg-id="History.HD.br" tvg-name="History" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history.webp",History
 https://stream1.freetv.fun/cf48eb9b171e93d765a69684aa345e11597a6a972452a2d810d6facb2f66016d.m3u8
-
-#EXTINF:-1 tvg-id="History.2.br" tvg-name="History 2" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history2.webp",History 2
-https://super-cdn.link/history2/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name=" discovery" group-title="Documentários" tvg-logo="",discovery theater
 http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/91401
