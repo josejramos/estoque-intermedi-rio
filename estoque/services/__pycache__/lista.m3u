@@ -222,7 +222,8 @@ https://new.m3u8.one/globosp/index.m3u8
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
-https://livst.site/record/index.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="REDETV.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/EgKx2J1.png",Rede TV
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
 
