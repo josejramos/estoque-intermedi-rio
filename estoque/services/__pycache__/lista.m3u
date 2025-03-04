@@ -30,7 +30,7 @@ https://lvstr.cfd/amc/index.m3u8
 http://supersonictv.live:8080/899559/316805/85045
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://imgur.com/GPcKZ2i.png",Paramount Network
-http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/108179
+https://lvstr.cfd/paramountnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.One.HD.br" tvg-name="Sony One" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/sony_one.png?raw=true",Sony One Emoções
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
@@ -69,7 +69,7 @@ https://lvstr.cfd/hbo2/index.m3u8
 http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/13531
 
 #EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-name="HBO Plus" group-title="Filmes" tvg-logo="https://imgur.com/VGBP9wj.png",HBO Plus
-http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/94385
+https://lvstr.cfd/hboplus/index.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Filmes ",Studio Universal FHD
 https://lvstr.cfd/studiouniversal/index.m3u8
@@ -115,9 +115,6 @@ https://lvstr.cfd/megapix/index.m3u8
 
 # Desenhos
 
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito" group-title="Desenhos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/cartoonito.png?raw=true",Cartoonito
-https://super-cdn.link/cartoonito/index.m3u8
-
 #EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon Network" group-title="Desenhos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/cartoon_network.png?raw=true",Cartoon Network
 https://super-cdn.link/cartoonnetwork/video.m3u8
 
@@ -129,13 +126,6 @@ http://15.235.50.115:14561/DiscoveryKids
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https://imgur.com/vYFZ98f.png",Nickelodeon
 https://lvstr.cfd/nickelodeon/index.m3u8
-
-#EXTINF:-1 tvg-id="KidsMais.HD.br" tvg-name="Kids Mais" group-title="Desenhos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/unnamed_4cMwnRI.png",Kids Mais
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Retro.HD.br" tvg-name="Desenho Animado Retrô" group-title="Desenhos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/retro_tv.png?raw=true",Desenho Animado Retrô
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
 
 # Documentários
 
@@ -152,7 +142,7 @@ https://lvstr.cfd/discoverychannel/index.m3u8
 http://15.235.50.112:14112/DiscoveryWorld
 
 #EXTINF:-1 tvg-id="Curta!.HD.br" tvg-name="Curta!" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/curta.png?raw=true",Curta!
-http://15.235.50.114:19171/Curta
+https://lvstr.cfd/curta/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - National Geographic" tvg-name="NATIONAL GEOGRAPHIC [HD]" tvg-logo="http://p6.vc/ALX" group-title="Documentários",NATIONAL GEOGRAPHIC [HD]
 https://lvstr.cfd/nationalgeographic/index.m3u8
@@ -163,14 +153,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a
 #EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-name="Discovery Home and Health" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dhh.png",Discovery h&h
 https://lvstr.cfd/discoveryheh/index.m3u8
 
-#EXTINF:-1 tvg-id="Pluto.TV.Natureza.br" tvg-name="Pluto TV Natureza" group-title="Documentários" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/logo.png",Pluto TV Natureza
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=-18.9500&deviceLon=-48.3500&deviceMake=&deviceModel=&deviceType=&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=&userId=
-
-#EXTINF:-1 tvg-id="History.HD.br" tvg-name="History" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history.webp",History
-https://stream1.freetv.fun/cf48eb9b171e93d765a69684aa345e11597a6a972452a2d810d6facb2f66016d.m3u8
-
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name=" discovery" group-title="Documentários" tvg-logo="",discovery theater
-http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/91401
+https://lvstr.cfd/discoverytheater/index.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name=" HGTV" group-title="Documentários" tvg-logo="",HGTV
 https://lvstr.cfd/hgtv/index.m3u8
