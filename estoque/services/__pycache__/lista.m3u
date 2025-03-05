@@ -283,3 +283,5 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8798
 #EXTINF:-1 tvg-id="Nosso futebol.br" tvg-name="nosso futebol " group-title="Esportes" tvg-logo=
 https://lvstr.cfd/nossofutebol/index.m3u8
 
+#EXTINF:-1 tvg-id="Prime video.br" tvg-name="Prime video " group-title="Esportes" tvg-logo=
+https://test.choraporco.icu/token/20e03b02478c80ad70e6b7bb211a4f27/embedtv.m3u8
