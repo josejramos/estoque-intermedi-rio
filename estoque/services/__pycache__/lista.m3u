@@ -36,7 +36,7 @@ https://lvstr.cfd/paramountnetwork/index.m3u8
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://i.imgur.com/18X62CK.png",Sony
-http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/108180
+https://lvstr.cfd/sonychannel/index.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
 https://lvstr.cfd/sonymovies/index.m3u8
@@ -162,7 +162,7 @@ https://lvstr.cfd/hgtv/index.m3u8
 # Diversos
 
 #EXTINF:-1 tvg-id="BIS.HD.br" tvg-name="Bis" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/bis.png",Bis
-https://super-cdn.link/bis/index.m3u8
+https://lvstr.cfd/bis/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-name="Comedy Central" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
 https://lvstr.cfd/comedycentral/index.m3u8
@@ -283,5 +283,3 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8798
 #EXTINF:-1 tvg-id="Nosso futebol.br" tvg-name="nosso futebol " group-title="Esportes" tvg-logo=
 https://lvstr.cfd/nossofutebol/index.m3u8
 
-#EXTINF:-1 tvg-id="Prime video.br" tvg-name="Prime video " group-title="Esportes" tvg-logo=
-https://test.choraporco.icu/token/20e03b02478c80ad70e6b7bb211a4f27/embedtv.m3u8
