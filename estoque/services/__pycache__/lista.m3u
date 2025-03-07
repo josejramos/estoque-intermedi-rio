@@ -3,7 +3,7 @@
 # Filmes
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
-https://stream1.freetv.fun/0dc938f4c85b80b0dd4ef6999e5e091acc1de28fd234e331c49a22afd0c56d01.ctv
+https://lvstr.cfd/telecineaction/index.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium FHD
 https://lvstr.cfd/telecinepremium/index.m3u8
@@ -39,7 +39,7 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/108180
 
 #EXTINF:-1 tvg-id="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
-https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
+https://lvstr.cfd/sonymovies/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries",AXN [HD]
 https://lvstr.cfd/axn/index.m3u8
