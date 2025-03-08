@@ -165,7 +165,7 @@ https://lvstr.cfd/hgtv/index.m3u8
 https://lvstr.cfd/bis/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-name="Comedy Central" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
-https://lvstr.cfd/comedycentral/index.m3u8
+http://pfsv.io:80/6705646555/60670/106.ts
 
 #EXTINF:-1 tvg-id="GNT.HD.br" tvg-name="GNT" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/gnt.png",GNT
 https://lvstr.cfd/gnt/index.m3u8
