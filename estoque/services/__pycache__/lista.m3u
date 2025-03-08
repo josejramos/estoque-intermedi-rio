@@ -45,7 +45,7 @@ https://lvstr.cfd/sonymovies/index.m3u8
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8852
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD [Alter]
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/295111
+https://new.m3u8.one/space/index.m3u8
 
 #EXTINF:-1 tvg-id="Star.Channel.HD.br" tvg-name="Star Channel" group-title="Filmes" tvg-logo="https://imgur.com/TCrKgcu.png",Star Channel
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/3035
@@ -78,7 +78,7 @@ https://lvstr.cfd/studiouniversal/index.m3u8
 https://lvstr.cfd/universaltv/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes ",TNT HD
-https://lvstr.cfd/tnt/index.m3u8
+http://conexao-vs.live/TNT/index.m3u8
 
 #EXTINF:-1  tvg-id="https://imgur.com/vH2tkQt.png" group-title="Filmes",TNT Séries HD [Alter]
 http://pfsv.io:80/6705646555/60670/342.ts
