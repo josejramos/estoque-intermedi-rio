@@ -21,34 +21,34 @@ https://lvstr.cfd/telecinefun/index.m3u8
 https://lvstr.cfd/telecinetouch/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://p6.vc/APV" group-title="Filmes",A&E [HD]
-http://supersonictv.live:8080/899559/316805/84935
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8816
 
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://imgur.com/2lr4rvX.png",AMC
-https://lvstr.cfd/amc/index.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8845
 
 #EXTINF:-1 tvg-id="BR - Lifetime" tvg-name="LFT [HD]" tvg-logo="" group-title="Filmes",LFT [HD]
 http://supersonictv.live:8080/899559/316805/85045
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://imgur.com/GPcKZ2i.png",Paramount Network
-https://lvstr.cfd/paramountnetwork/index.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8859
 
 #EXTINF:-1 tvg-id="Sony.One.HD.br" tvg-name="Sony One" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/sony_one.png?raw=true",Sony One Emoções
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://i.imgur.com/18X62CK.png",Sony
-https://lvstr.cfd/sonychannel/index.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8882
 
 #EXTINF:-1 tvg-id="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
 https://lvstr.cfd/sonymovies/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries",AXN [HD]
-http://supersonictv.live:8080/899559/316805/84938
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8852
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD [Alter]
-https://lvstr.cfd/space/index.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/295111
 
 #EXTINF:-1 tvg-id="Star.Channel.HD.br" tvg-name="Star Channel" group-title="Filmes" tvg-logo="https://imgur.com/TCrKgcu.png",Star Channel
-https://stream1.freetv.fun/fb137ec6d9a805b7f086d055a6a871e1de51cc945ad2945a4cba8a06eaa1ccb5.ctv
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/3035
 
 #EXTINF:-1 tvg-id="USA.HD.br" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
 https://lvstr.cfd/usa/index.m3u8
@@ -136,7 +136,7 @@ http://supersonictv.live:8080/899559/316805/84936
 https://stream1.freetv.fun/53dc240df506b21c1897af291c2f29f0986ba6fc690f98a95e254e6decdd4a7f.ctv
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
-https://lvstr.cfd/discoverychannel/index.m3u8
+http://supersonictv.live:8080/968896/903421/84966
 
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://imgur.com/6sTkahx.png",Discovery World
 http://15.235.50.112:14112/DiscoveryWorld
