@@ -3,28 +3,28 @@
 # Filmes
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
-https://lvstr.cfd/telecineaction/index.m3u8
+https://stcdn.store/telecineaction/index.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium FHD
-https://lvstr.cfd/telecinepremium/index.m3u8
+https://stcdn.store/telecinepremium/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
-https://lvstr.cfd/telecinepipoca/index.m3u8
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
+https://stcdn.store/telecinepipoca/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://i.imgur.com/Tavo4Zl.png",Telecine Cult
-https://lvstr.cfd/telecinecult/index.m3u8
+https://stcdn.store/telecinecult/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://i.imgur.com/eo6Js8D.png",Telecine Fun
-https://lvstr.cfd/telecinefun/index.m3u8
+https://stcdn.store/telecinefun/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://i.imgur.com/viw732w.png",Telecine Touch
-https://lvstr.cfd/telecinetouch/index.m3u8
+https://stcdn.store/telecinetouch/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://p6.vc/APV" group-title="Filmes",A&E [HD]
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8816
+https://stcdn.store/aee/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://imgur.com/2lr4rvX.png",AMC
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8845
+https://stcdn.store/amc/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - Lifetime" tvg-name="LFT [HD]" tvg-logo="" group-title="Filmes",LFT [HD]
 http://supersonictv.live:8080/899559/316805/85045
@@ -36,13 +36,13 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8859
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://i.imgur.com/18X62CK.png",Sony
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8882
+https://stcdn.store/sonychannel/index.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
-https://lvstr.cfd/sonymovies/index.m3u8
+https://stcdn.store/sonymovies/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries",AXN [HD]
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8852
+https://stcdn.store/axn/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD [Alter]
 https://new.m3u8.one/space/index.m3u8
@@ -51,7 +51,7 @@ https://new.m3u8.one/space/index.m3u8
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/3035
 
 #EXTINF:-1 tvg-id="USA.HD.br" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
-https://lvstr.cfd/usa/index.m3u8
+https://stcdn.store/usa/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO",HBO POP HD
 https://lvstr.cfd/hbo/index.m3u8
@@ -60,10 +60,10 @@ https://lvstr.cfd/hbo/index.m3u8
 https://lvstr.cfd/fx/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" group-title="Filmes" tvg-logo="https://imgur.com/IKjcTJH.png",HBO
-https://lvstr.cfd/hbo/index.m3u8
+https://stcdn.store/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO2" group-title="Filmes" tvg-logo="https://imgur.com/smM7mYc.png",HBO2
-https://lvstr.cfd/hbo2/index.m3u8
+https://stcdn.store/hbo2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/hbomundi.png?raw=true",HBO Mundi
 http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/13531
@@ -72,10 +72,10 @@ http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfve
 https://lvstr.cfd/hboplus/index.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Filmes ",Studio Universal FHD
-https://lvstr.cfd/studiouniversal/index.m3u8
+https://stcdn.store/studiouniversal/index.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/VwFjFMO.png" group-title="Filmes",Universal Channel HD
-https://lvstr.cfd/universaltv/index.m3u8
+https://stcdn.store/universaltv/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes ",TNT HD
 http://conexao-vs.live/TNT/index.m3u8
@@ -96,22 +96,22 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8825
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes",Warner Channel FHD
-https://lvstr.cfd/warnerchannel/index.m3u8
+https://stcdn.store/warnerchannel/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Filmes",HBO Family FHD
-https://lvstr.cfd/hbofamily/index.m3u8
+https://stcdn.store/hbofamily/index.m3u8
 
 #EXTINF:-1 tvg-id="https://i.imgur.com/Mkxd6PK.png" group-title="Filmes",HBO Xtreme FHD
-https://lvstr.cfd/hboxtreme/index.m3u8
+https://stcdn.store/hboxtreme/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Filmes",HBO SIGNATURE FHD
-https://lvstr.cfd/hbosignature/index.m3u8
+https://stcdn.store/hbosignature/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name=" CN" tvg-logo="" group-title="Filmes",CINEMAX
-http://supersonictv.live:8080/899559/316805/84948
+https://stcdn.store/cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id=MEGAPIX" tvg-name=" MG " tvg-logo="" group-title="Filmes",MEGAPIX
-https://lvstr.cfd/megapix/index.m3u8
+https://stcdn.store/megapix/index.m3u8
 
 # Desenhos
 
@@ -136,7 +136,7 @@ http://supersonictv.live:8080/899559/316805/84936
 https://stream1.freetv.fun/53dc240df506b21c1897af291c2f29f0986ba6fc690f98a95e254e6decdd4a7f.ctv
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
-http://supersonictv.live:8080/968896/903421/84966
+https://stcdn.store/discoverychannel/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://imgur.com/6sTkahx.png",Discovery World
 http://15.235.50.112:14112/DiscoveryWorld
