@@ -219,10 +219,15 @@ https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/in
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sbt.png",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV APARECIDA" tvg-name="" group-title="Abertos" tvg-logo="Https://i.imgur.com/egU0jsZ.png",TV AP
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="Cultura.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/ heads/main/logos/tvcultura.png",Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
+
+#EXTINF:-1 tvg-id="TV EVANGELIZAR" tvg-name="" group-title="Abertos" tvg-logo="http://i.imgur.com/FoPnWx0.png",TV EVANGELIZAR
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 
 # Esportes
 
