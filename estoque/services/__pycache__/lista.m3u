@@ -257,7 +257,7 @@ https://new.m3u8.one/sportv/index.m3u8
 http://supersonictv.live:8080/899559/316805/85093
 
 #EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://imgur.com/ttHpdGp.png"",Sportv 3
-http://supersonictv.live:8080/899559/316805/85094
+https://stcdn.store/sportv3/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere Clubes
 https://new.m3u8.one/pre1/index.m3u8
