@@ -260,10 +260,10 @@ http://supersonictv.live:8080/899559/316805/85093
 http://supersonictv.live:8080/899559/316805/85094
 
 #EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere Clubes
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8785
+https://new.m3u8.one/pre1/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD2.br" tvg-name="Premiere 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8786
+https://new.m3u8.one/pre2/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.3.br" tvg-name="Premiere 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 3
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8787
