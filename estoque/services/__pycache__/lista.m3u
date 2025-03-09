@@ -21,7 +21,7 @@ https://stcdn.store/telecinefun/index.m3u8
 https://stcdn.store/telecinetouch/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://p6.vc/APV" group-title="Filmes",A&E [HD]
-https://stcdn.store/aee/index.m3u8
+http://supersonictv.live:8080/968896/903421/84935
 
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://imgur.com/2lr4rvX.png",AMC
 https://stcdn.store/amc/index.m3u8
