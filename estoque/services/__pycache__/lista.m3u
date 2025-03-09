@@ -24,7 +24,7 @@ https://stcdn.store/telecinetouch/index.m3u8
 http://supersonictv.live:8080/968896/903421/84935
 
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://imgur.com/2lr4rvX.png",AMC
-https://stcdn.store/amc/index.m3u8
+http://pfsv.io:80/6705646555/60670/300.ts
 
 #EXTINF:-1 tvg-id="BR - Lifetime" tvg-name="LFT [HD]" tvg-logo="" group-title="Filmes",LFT [HD]
 http://supersonictv.live:8080/899559/316805/85045
