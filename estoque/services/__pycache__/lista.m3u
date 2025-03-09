@@ -136,7 +136,7 @@ http://supersonictv.live:8080/899559/316805/84936
 https://stream1.freetv.fun/53dc240df506b21c1897af291c2f29f0986ba6fc690f98a95e254e6decdd4a7f.ctv
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
-https://stcdn.store/discoverychannel/index.m3u8
+http://pfsv.io:80/6705646555/60670/181.ts
 
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://imgur.com/6sTkahx.png",Discovery World
 https://livst.site/discoveryworld/index.m3u8
