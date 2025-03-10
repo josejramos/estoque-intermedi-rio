@@ -21,13 +21,13 @@ https://stlvs.click/telecinefun/index.m3u8
 https://stlvs.click/telecinetouch/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://p6.vc/APV" group-title="Filmes",A&E [HD]
-http://supersonictv.live:8080/968896/903421/84935
+https://stlvs.click/aee/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://imgur.com/2lr4rvX.png",AMC
 https://stlvs.click/amc/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - Lifetime" tvg-name="LFT [HD]" tvg-logo="" group-title="Filmes",LFT [HD]
-http://supersonictv.live:8080/899559/316805/85045
+https://stlvs.click/lifetime/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://imgur.com/GPcKZ2i.png",Paramount Network
 https://stcdn.store/paramountnetwork/index.m3u8
@@ -36,10 +36,10 @@ https://stcdn.store/paramountnetwork/index.m3u8
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://i.imgur.com/18X62CK.png",Sony
-https://stcdn.store/sonychannel/index.m3u8
+https://stlvs.click/sony/index.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
-https://stcdn.store/sonymovies/index.m3u8
+https://stlvs.click/sonymovies/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries",AXN [HD]
 https://stlvs.click/axn/index.m3u8
@@ -51,19 +51,19 @@ https://new.m3u8.one/space/index.m3u8
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/3035
 
 #EXTINF:-1 tvg-id="USA.HD.br" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
-https://stcdn.store/usa/index.m3u8
+https://stlvs.click/usa/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO",HBO POP HD
-https://lvstr.cfd/hbo/index.m3u8
+https://stlvs.click/hbopop/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.HD.br" tvg-name="FX" group-title="Filmes" tvg-logo="https://imgur.com/szGH75G.png",FX
 https://lvstr.cfd/fx/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" group-title="Filmes" tvg-logo="https://imgur.com/IKjcTJH.png",HBO
-https://stcdn.store/hbo/index.m3u8
+https://stlvs.click/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO2" group-title="Filmes" tvg-logo="https://imgur.com/smM7mYc.png",HBO2
-https://stcdn.store/hbo2/index.m3u8
+https://stlvs.click/hbo2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/hbomundi.png?raw=true",HBO Mundi
 http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/13531
@@ -72,16 +72,16 @@ http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfve
 https://stcdn.store/hboplus/index.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Filmes ",Studio Universal FHD
-https://stcdn.store/studiouniversal/index.m3u8
+https://stlvs.click/studiouniversal/index.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/VwFjFMO.png" group-title="Filmes",Universal Channel HD
-https://stcdn.store/universaltv/index.m3u8
+https://stlvs.click/universaltv/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes ",TNT HD
 http://conexao-vs.live/TNT/index.m3u8
 
 #EXTINF:-1  tvg-id="https://imgur.com/vH2tkQt.png" group-title="Filmes",TNT Séries HD [Alter]
-http://pfsv.io:80/6705646555/60670/342.ts
+https://stlvs.click/hbo-pop/index.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/92rUCKL.png" group-title="Filmes",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
@@ -162,19 +162,19 @@ https://stcdn.store/hgtv/index.m3u8
 # Diversos
 
 #EXTINF:-1 tvg-id="BIS.HD.br" tvg-name="Bis" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/bis.png",Bis
-https://stcdn.store/bis/index.m3u8
+https://stlvs.click/bis/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-name="Comedy Central" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
-https://stcdn.store/comedycentral/index.m3u8
+https://stlvs.click/comedycentral/index.m3u8
 
 #EXTINF:-1 tvg-id="GNT.HD.br" tvg-name="GNT" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/gnt.png",GNT
-https://stcdn.store/gnt/index.m3u8
+https://stlvs.click/gnt/index.m3u8
 
 #EXTINF:-1 tvg-id="Viva.HD.br" tvg-name="Viva" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs /heads/main/logos/viva.webp",VIVA
-https://stcdn.store/viva/index.m3u8
+https://stlvs.click/viva/index.m3u8
 
 #EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWOORK" tvg-logo="http://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="CANAIS: VARIEDADES",FOOD NETWOORK
-https://stcdn.store/foodnetwork/index.m3u8
+https://stlvs.click/foodnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Novelas" tvg-name="FOOD NETWOORK" tvg-logo="" group-title="CANAIS: VARIEDADES",TNT NOVELAS
 https://stlvs.click/tntnovelas/index.m3u8
@@ -242,19 +242,19 @@ https://new.m3u8.one/combate/index.m3u8
 https://new.m3u8.one/espn/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 2
-https://stcdn.store/espn2/index.m3u8
+https://stlvs.click/espn2/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 3
-https://stcdn.store/espn3/index.m3u8
+https://stlvs.click/espn3/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 4
-https://stcdn.store/espn4/index.m3u8
+https://stlvs.click/espn4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 5" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 5
-https://stcdn.store/espn5/index.m3u8
+https://stlvs.click/espn5/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 6
-https://stcdn.store/espn6/index.m3u8
+https://stlvs.click/espn6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp" group-title="Esportes", BandSports  
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
@@ -268,7 +268,7 @@ https://new.m3u8.one/sportv/index.m3u8
 https://new.m3u8.one/sportv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://imgur.com/ttHpdGp.png"",Sportv 3
-https://stcdn.store/sportv3/index.m3u8
+https://stlvs.click/sportv3/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere Clubes
 https://new.m3u8.one/pre1/index.m3u8
@@ -292,5 +292,5 @@ https://stcdn.store/premiere6/index.m3u8
 https://stcdn.store/premiere7/index.m3u8
 
 #EXTINF:-1 tvg-id="Nosso futebol.br" tvg-name="nosso futebol " group-title="Esportes" tvg-logo=
-https://lvstr.cfd/nossofutebol/index.m3u8
+https://stlvs.click/nossofutebol/index.m3u8
 
