@@ -183,6 +183,10 @@ https://stlvs.click/tntnovelas/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com 
 https://embedcanaistv.live/tntnovelas/video.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES", TNT NOVELAS  
+https://embedcanaistv.live/tntnovelas/video.m3u8|Referer=https://embedcanaistv.com
+
 # Jornalismo
 
 #EXTINF:-1 tvg-id="CNN.Brasil.HD.br" tvg-name="CNN Brasil" group-title="Jornalismo" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/ baselist/refs/heads/main/logos/cnn.webp",CNN Brasil
