@@ -265,7 +265,7 @@ https://embedcanaistv.live/bandsports/video.m3u8
 https://stlvs.click/sportv/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.2.br" tvg-name="SporTV 2" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv 2
-https://new.m3u8.one/sportv2/tracks-v1a1/mono.m3u8
+https://stlvs.click/sportv2/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://imgur.com/ttHpdGp.png"",Sportv 3
 https://stlvs.click/sportv3/index.m3u8
