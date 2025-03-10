@@ -176,8 +176,9 @@ https://stcdn.store/viva/index.m3u8
 #EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWOORK" tvg-logo="http://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="CANAIS: VARIEDADES",FOOD NETWOORK
 https://stcdn.store/foodnetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS [HD]" tvg-logo="" group-title="Canais",TNT NOVELAS [HD]
-http://pfsv.io:80/6705646555/60670/148423.ts
+#EXTINF:-1 tvg-logo="" group-title="Esportes", TNT NOVELAS  
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com 
+https://embedcanaistv.live/tntnovelas/video.m3u8
 
 # Jornalismo
 
