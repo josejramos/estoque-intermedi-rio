@@ -3,28 +3,28 @@
 # Filmes
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
-https://stcdn.store/telecineaction/index.m3u8
+https://stlvs.click/telecineaction/index.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium FHD
-https://stcdn.store/telecinepremium/index.m3u8
+https://stlvs.click/telecinepremium/index.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
-https://stcdn.store/telecinepipoca/index.m3u8
+https://stlvs.click/telecinepipoca/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://i.imgur.com/Tavo4Zl.png",Telecine Cult
-https://stcdn.store/telecinecult/index.m3u8
+https://stlvs.click/telecinecult/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://i.imgur.com/eo6Js8D.png",Telecine Fun
-https://stcdn.store/telecinefun/index.m3u8
+https://stlvs.click/telecinefun/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://i.imgur.com/viw732w.png",Telecine Touch
-https://stcdn.store/telecinetouch/index.m3u8
+https://stlvs.click/telecinetouch/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://p6.vc/APV" group-title="Filmes",A&E [HD]
 http://supersonictv.live:8080/968896/903421/84935
 
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://imgur.com/2lr4rvX.png",AMC
-http://pfsv.io:80/6705646555/60670/300.ts
+https://stlvs.click/amc/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - Lifetime" tvg-name="LFT [HD]" tvg-logo="" group-title="Filmes",LFT [HD]
 http://supersonictv.live:8080/899559/316805/85045
@@ -42,7 +42,7 @@ https://stcdn.store/sonychannel/index.m3u8
 https://stcdn.store/sonymovies/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries",AXN [HD]
-http://supersonictv.live:8080/682537/231637/84938
+https://stlvs.click/axn/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD [Alter]
 https://new.m3u8.one/space/index.m3u8
@@ -136,7 +136,7 @@ http://supersonictv.live:8080/899559/316805/84936
 https://stream1.freetv.fun/53dc240df506b21c1897af291c2f29f0986ba6fc690f98a95e254e6decdd4a7f.ctv
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
-http://pfsv.io:80/6705646555/60670/181.ts
+https://stlvs.click/discoverychannel/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://imgur.com/6sTkahx.png",Discovery World
 https://livst.site/discoveryworld/index.m3u8
@@ -175,6 +175,9 @@ https://stcdn.store/viva/index.m3u8
 
 #EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWOORK" tvg-logo="http://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="CANAIS: VARIEDADES",FOOD NETWOORK
 https://stcdn.store/foodnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-name="FOOD NETWOORK" tvg-logo="" group-title="CANAIS: VARIEDADES",TNT NOVELAS
+https://stlvs.click/tntnovelas/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES", TNT NOVELAS  
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com 
