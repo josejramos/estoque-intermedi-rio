@@ -294,7 +294,9 @@ https://stcdn.store/premiere7/index.m3u8
 #EXTINF:-1 tvg-id="Nosso futebol.br" tvg-name="nosso futebol " group-title="Esportes" tvg-logo=
 https://stlvs.click/nossofutebol/index.m3u8
 
-#EXTINF:-1 tvg-id="max" tvg-name="MAX " group-title="Esportes" tvg-logo="",MAX
-http://pfsv.io:80/6705646555/60670/195789.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp" group-title="Esportes", BandSports  
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com
+https://embedcanaistv.live/max/tracks-v1a1/mono.ts.m3u8
 
 
