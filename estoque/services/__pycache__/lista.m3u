@@ -154,7 +154,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a
 https://stlvs.click/discoveryheh/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name=" discovery" group-title="Documentários" tvg-logo="",discovery theater
-https://stcdn.store/discoverytheater/index.m3u8
+https://stlvs.click/discoverytheater/index.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name=" HGTV" group-title="Documentários" tvg-logo="",HGTV
 https://stlvs.click/hgtv/index.m3u8
