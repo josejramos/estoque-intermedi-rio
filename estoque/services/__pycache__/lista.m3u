@@ -30,7 +30,7 @@ https://stlvs.click/amc/index.m3u8
 https://stlvs.click/lifetime/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://imgur.com/GPcKZ2i.png",Paramount Network
-https://stcdn.store/paramountnetwork/index.m3u8
+https://stlvs.click/paramountnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.One.HD.br" tvg-name="Sony One" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/sony_one.png?raw=true",Sony One Emoções
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
