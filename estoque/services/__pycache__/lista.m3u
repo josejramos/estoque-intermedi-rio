@@ -69,7 +69,7 @@ https://stlvs.click/hbo2/index.m3u8
 http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/13531
 
 #EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-name="HBO Plus" group-title="Filmes" tvg-logo="https://imgur.com/VGBP9wj.png",HBO Plus
-https://stcdn.store/hboplus/index.m3u8
+https://stlvs.click/hboplus/index.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Filmes ",Studio Universal FHD
 https://stlvs.click/studiouniversal/index.m3u8
@@ -96,36 +96,33 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8825
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes",Warner Channel FHD
-https://stcdn.store/warnerchannel/index.m3u8
+https://stlvs.click/warnerchannel/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Filmes",HBO Family FHD
-https://stcdn.store/hbofamily/index.m3u8
+https://stlvs.click/hbofamily/index.m3u8
 
 #EXTINF:-1 tvg-id="https://i.imgur.com/Mkxd6PK.png" group-title="Filmes",HBO Xtreme FHD
-https://stcdn.store/hboxtreme/index.m3u8
+https://stlvs.click/hboxtreme/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Filmes",HBO SIGNATURE FHD
-https://stcdn.store/hbosignature/index.m3u8
+https://stlvs.click/hbosignature/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name=" CN" tvg-logo="" group-title="Filmes",CINEMAX
-https://stcdn.store/cinemax/index.m3u8
+https://stlvs.click/cinemax/index.m3u8
 
-#EXTINF:-1 tvg-id=MEGAPIX" tvg-name=" MG " tvg-logo="" group-title="Filmes",MEGAPIX
-https://stcdn.store/megapix/index.m3u8
+#EXTINF:-1 tvg-id=MEGAPIX" tvg-name="MEGAPIX " tvg-logo="" group-title="Filmes",MEGAPIX
+https://stlvs.click/megapix/index.m3u8
 
 # Desenhos
 
 #EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon Network" group-title="Desenhos" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/cartoon_network.png?raw=true",Cartoon Network
 http://supersonictv.live:8080/899559/316805/84946
 
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Desenhos | FILMES E SERIES",Disney Channel HD
-https://stcdn.store/disneychannel/index.m3u8
-
 #EXTINF:-1 tvg-id="Discovery.Kids.HD.br" tvg-name="Discovery Kids" group-title="Desenhos" tvg-logo="https://imgur.com/WxKCkhL.png",Discovery Kids
 https://stcdn.store/discoverykids/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https://imgur.com/vYFZ98f.png",Nickelodeon
-https://stcdn.store/nickelodeon/index.m3u8
+https://stlvs.click/nickelodeon/index.m3u8
 
 # Documentários
 
@@ -142,10 +139,7 @@ https://stlvs.click/discoverychannel/index.m3u8
 https://livst.site/discoveryworld/index.m3u8
 
 #EXTINF:-1 tvg-id="Curta!.HD.br" tvg-name="Curta!" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/curta.png?raw=true",Curta!
-https://stcdn.store/curta/index.m3u8
-
-#EXTINF:-1 tvg-id="BR - National Geographic" tvg-name="NATIONAL GEOGRAPHIC [HD]" tvg-logo="http://p6.vc/ALX" group-title="Documentários",NATIONAL GEOGRAPHIC [HD]
-https://stcdn.store/nationalgeographic/index.m3u8
+https://stlvs.click/curta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title=" Documentários",Pluto TV Animais
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
