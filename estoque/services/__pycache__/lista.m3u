@@ -173,9 +173,9 @@ https://stlvs.click/foodnetwork/index.m3u8
 #EXTINF:-1 tvg-id="TNT Novelas" tvg-name="FOOD NETWOORK" tvg-logo="" group-title="CANAIS: VARIEDADES",TNT NOVELAS
 https://stlvs.click/tntnovelas/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES", TNT NOVELAS  
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com 
-https://embedcanaistv.live/tntnovelas/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",   
+#EXTVLCOPT:http-referrer=https://embedtv.digital/ 
+https://s2.choraporco.icu/token/885fa11da5790efd8bf2299d08408f8c/embedtv.m3u8
 
 # Jornalismo
 
