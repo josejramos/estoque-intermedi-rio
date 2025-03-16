@@ -173,9 +173,11 @@ https://stlvs.click/foodnetwork/index.m3u8
 #EXTINF:-1 tvg-id="TNT Novelas" tvg-name="FOOD NETWOORK" tvg-logo="" group-title="CANAIS: VARIEDADES",TNT NOVELAS
 https://stlvs.click/tntnovelas/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp" group-title="CANAIS: VARIEDADES", AXN  
-#EXTVLCOPT:http-referrer=https://reidoscanais.cc
-https://livst.site/hboxtreme/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/main/logos/espn.webp" group-title="Esportes", BandSports  
+#EXTVLCOPT:http-referrer=https://reidoscanais.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://livst.site/discoveryid/tracks-v1a1/mono.m3u8
+
 
 # Jornalismo
 
