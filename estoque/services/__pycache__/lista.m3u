@@ -171,7 +171,7 @@ https://stlvs.click/viva/index.m3u8
 https://stlvs.click/foodnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Novelas" tvg-name="FOOD NETWOORK" tvg-logo="" group-title="CANAIS: VARIEDADES",TNT NOVELAS
-https://stlvs.click/tntnovelas/index.m3u8
+https://tvsmarters.org/tntnovelas/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/main/logos/espn.webp" group-title="Esportes", BandSports  
 #EXTVLCOPT:http-referrer=https://reidoscanais.cc/
