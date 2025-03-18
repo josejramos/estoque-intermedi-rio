@@ -3,22 +3,22 @@
 # Filmes
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
-https://stlvs.click/telecineaction/index.m3u8
+https://tvsmarters.org/tcaction/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium FHD
-https://stlvs.click/telecinepremium/index.m3u8
+https://tvsmarters.org/tcpremium/tracks-v1a1l1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
-https://stlvs.click/telecinepipoca/index.m3u8
+https://tvsmarters.org/tcpipoca/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://i.imgur.com/Tavo4Zl.png",Telecine Cult
-https://stlvs.click/telecinecult/index.m3u8
+https://tvsmarters.org/tccult/video.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://i.imgur.com/eo6Js8D.png",Telecine Fun
-https://stlvs.click/telecinefun/index.m3u8
+https://tvsmarters.org/tcfun/video.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://i.imgur.com/viw732w.png",Telecine Touch
-https://stlvs.click/telecinetouch/index.m3u8
+https://tvsmarters.org/tctouch/video.m3u8
 
 #EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://p6.vc/APV" group-title="Filmes",A&E [HD]
 https://stlvs.click/aee/index.m3u8
@@ -27,7 +27,7 @@ https://stlvs.click/aee/index.m3u8
 https://stlvs.click/amc/index.m3u8
 
 #EXTINF:-1 tvg-id="BR - Lifetime" tvg-name="LFT [HD]" tvg-logo="" group-title="Filmes",LFT [HD]
-https://stlvs.click/lifetime/index.m3u8
+https://tvsmarters.org/lifetime/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://imgur.com/GPcKZ2i.png",Paramount Network
 https://stlvs.click/paramountnetwork/index.m3u8
@@ -54,34 +54,34 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/3035
 https://stlvs.click/usa/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO",HBO POP HD
-https://stlvs.click/hbopop/index.m3u8
+https://tvsmarters.org/hbopop/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="FX.HD.br" tvg-name="FX" group-title="Filmes" tvg-logo="https://imgur.com/szGH75G.png",FX
 https://lvstr.cfd/fx/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" group-title="Filmes" tvg-logo="https://imgur.com/IKjcTJH.png",HBO
-https://stlvs.click/hbo/index.m3u8
+https://tvsmarters.org/hbo/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO2" group-title="Filmes" tvg-logo="https://imgur.com/smM7mYc.png",HBO2
-https://stlvs.click/hbo2/index.m3u8
+https://tvsmarters.org/hbo2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/hbomundi.png?raw=true",HBO Mundi
-http://cnalest.com:80/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/13531
+https://tvsmarters.org/hbomundi/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-name="HBO Plus" group-title="Filmes" tvg-logo="https://imgur.com/VGBP9wj.png",HBO Plus
-https://stlvs.click/hboplus/index.m3u8
+https://tvsmarters.org/hboplus/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Filmes ",Studio Universal FHD
-https://stlvs.click/studiouniversal/index.m3u8
+https://tvsmarters.org/studiouniversal/tracks-v1a1l1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/VwFjFMO.png" group-title="Filmes",Universal Channel HD
-https://stlvs.click/universaltv/index.m3u8
+https://tvsmarters.org/universaltv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes ",TNT HD
 http://conexao-vs.live/TNT/index.m3u8
 
 #EXTINF:-1  tvg-id="https://imgur.com/vH2tkQt.png" group-title="Filmes",TNT Séries HD [Alter]
-https://stlvs.click/hbo-pop/index.m3u8
+https://tvsmarters.org/tntseries/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/92rUCKL.png" group-title="Filmes",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
@@ -99,19 +99,19 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8825
 https://stlvs.click/warnerchannel/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Filmes",HBO Family FHD
-https://s2.choraporco.icu/token/3f89cb873a06f11dfd4165ced2b6e76a/embedtv.m3u8
+https://tvsmarters.org/hbofamily/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="https://i.imgur.com/Mkxd6PK.png" group-title="Filmes",HBO Xtreme FHD
-https://stlvs.click/hboxtreme/index.m3u8
+https://tvsmarters.org/hboxtreme/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Filmes",HBO SIGNATURE FHD
-https://stlvs.click/hbosignature/index.m3u8
+https://tvsmarters.org/hbosignature/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name=" CN" tvg-logo="" group-title="Filmes",CINEMAX
-https://stlvs.click/cinemax/index.m3u8
+https://tvsmarters.org/cinemax/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id=MEGAPIX" tvg-name="MEGAPIX " tvg-logo="" group-title="Filmes",MEGAPIX
-https://stlvs.click/megapix/index.m3u8
+https://tvsmarters.org/megapix/video.m3u8
 
 # Desenhos
 
