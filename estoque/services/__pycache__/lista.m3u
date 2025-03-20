@@ -256,28 +256,28 @@ https://stlvs.click/espn6/index.m3u8
 https://livst.site/discoveryid/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv
-https://new.m3u8.one/sportv/index.m3u8
+https://tvsmarters.org/sportv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.2.br" tvg-name="SporTV 2" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv 2
-https://new.m3u8.one/sportv2/index.m3u8
+https://tvsmarters.org/sportv2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://imgur.com/ttHpdGp.png"",Sportv 3
-https://stlvs.click/sportv3/index.m3u8
+https://tvsmarters.org/sportv3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere Clubes
-https://new.m3u8.one/pre1/index.m3u8
+https://tvsmarters.org/premiereclubes/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD2.br" tvg-name="Premiere 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 2
-https://new.m3u8.one/pre2/index.m3u8
+https://tvsmarters.org/premiere2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.3.br" tvg-name="Premiere 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 3
-https://stcdn.store/premiere3/index.m3u8
+https://tvsmarters.org/premiere3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.4.br" tvg-name="Premiere 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 4
-https://stcdn.store/premiere4/index.m3u8
+https://tvsmarters.org/premiere4/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.5.br" tvg-name="Premiere 5" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 5
-https://stcdn.store/premiere5/index.m3u8
+https://tvsmarters.org/premiere5/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD6.br" tvg-name="Premiere 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 6
 https://stcdn.store/premiere6/index.m3u8
