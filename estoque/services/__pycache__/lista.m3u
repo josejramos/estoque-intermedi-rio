@@ -45,7 +45,7 @@ https://stlvs.click/sonymovies/index.m3u8
 https://tvsmarters.org/axn/video.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD [Alter]
-https://new.m3u8.one/space/index.m3u8
+https://tvsmarters.org/space/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Star.Channel.HD.br" tvg-name="Star Channel" group-title="Filmes" tvg-logo="https://imgur.com/TCrKgcu.png",Star Channel
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/3035
