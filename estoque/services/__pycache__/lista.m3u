@@ -32,9 +32,6 @@ https://tvsmarters.org/lifetime/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://imgur.com/GPcKZ2i.png",Paramount Network
 https://stlvs.click/paramountnetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony.One.HD.br" tvg-name="Sony One" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/sony_one.png?raw=true",Sony One Emoções
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://i.imgur.com/18X62CK.png",Sony
 https://tvsmarters.org/sonychannel/tracks-v1a1/mono.ts.m3u8
 
@@ -47,17 +44,11 @@ https://tvsmarters.org/axn/video.m3u8
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD [Alter]
 https://tvsmarters.org/space/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Star.Channel.HD.br" tvg-name="Star Channel" group-title="Filmes" tvg-logo="https://imgur.com/TCrKgcu.png",Star Channel
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/3035
-
 #EXTINF:-1 tvg-id="USA.HD.br" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
 https://tvsmarters.org/amc/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO",HBO POP HD
 https://tvsmarters.org/hbopop/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="FX.HD.br" tvg-name="FX" group-title="Filmes" tvg-logo="https://imgur.com/szGH75G.png",FX
-https://lvstr.cfd/fx/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" group-title="Filmes" tvg-logo="https://imgur.com/IKjcTJH.png",HBO
 https://tvsmarters.org/hbo/tracks-v1a1/mono.ts.m3u8
@@ -85,9 +76,6 @@ https://tvsmarters.org/tntseries/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/92rUCKL.png" group-title="Filmes",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="https://imgur.com/CsC9aG5.png" group-title="Filmes",SONY ONE EMOCOES
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="https://imgur.com/9xo2bJt.png" group-title="Filmes",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
