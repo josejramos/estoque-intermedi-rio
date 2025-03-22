@@ -121,8 +121,11 @@ http://supersonictv.live:8080/899559/316805/84946
 #EXTINF:-1 tvg-id="Discovery.Kids.HD.br" tvg-name="Discovery Kids" group-title="Desenhos" tvg-logo="https://imgur.com/WxKCkhL.png",Discovery Kids
 https://stcdn.store/discoverykids/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https://imgur.com/vYFZ98f.png",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https:"",Nickelodeon
 https://stlvs.click/nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-id="Adult Swmin" tvg-name="Adult Swin" group-title="Desenhos" tvg-logo="",Adult Swmin
+https://tvsmarters.org/adultswim/tracks-v1a1/mono.ts.m3u8
 
 # Documentários
 
@@ -159,13 +162,13 @@ https://tvsmarters.org/hgtv/tracks-v1a1/mono.ts.m3u8
 https://stlvs.click/bis/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-name="Comedy Central" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
-https://stlvs.click/comedycentral/index.m3u8
+https://tvsmarters.org/comedycentral/video.m3u8
 
 #EXTINF:-1 tvg-id="GNT.HD.br" tvg-name="GNT" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/gnt.png",GNT
 https://tvsmarters.org/gnt/tracks-v1a1l1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Viva.HD.br" tvg-name="Viva" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs /heads/main/logos/viva.webp",VIVA
-https://stlvs.click/viva/index.m3u8
+https://tvsmarters.org/viva/video.m3u8
 
 #EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWOORK" tvg-logo="http://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="CANAIS: VARIEDADES",FOOD NETWOORK
 https://tvsmarters.org/foodnetwork/tracks-v1a1/mono.ts.m3u8
@@ -206,7 +209,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u
 #EXTINF:-1 tvg-id="REDETV.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/EgKx2J1.png",Rede TV
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
 
-
 #EXTINF:-1 tvg-id="Rede.Vida.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/0uNleBN.png",Rede Vida
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 
@@ -230,24 +232,24 @@ https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 https://new.m3u8.one/combate/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes" | ESPN",ESPN HD 
-https://new.m3u8.one/espn/index.m3u8
+https://tvsmarters.org/espn/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 2
-https://stlvs.click/espn2/index.m3u8
+https://tvsmarters.org/espn2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 3
-https://stlvs.click/espn3/index.m3u8
+https://tvsmarters.org/espn3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 4
-https://stlvs.click/espn4/index.m3u8
+https://tvsmarters.org/espn4/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 5" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 5
-https://stlvs.click/espn5/index.m3u8
+https://tvsmarters.org/espn5/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 6
-https://stlvs.click/espn6/index.m3u8
+https://tvsmarters.org/espn6/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp" group-title="Esportes", BandSports  
+#EXTINF:-1 tvg-logo="" group-title="Esportes", BandSports  
 https://tvsmarters.org/bandsports/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv
