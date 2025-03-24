@@ -26,13 +26,13 @@ https://stlvs.click/aee/index.m3u8
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://imgur.com/2lr4rvX.png",AMC
 https://tvsmarters.org/amc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="BR - Lifetime" tvg-name="LFT [HD]" tvg-logo="" group-title="Filmes",LFT [HD]
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime [HD]" tvg-logo="" group-title="Filmes",LFT [HD]
 https://tvsmarters.org/lifetime/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://imgur.com/GPcKZ2i.png",Paramount Network
 https://stlvs.click/paramountnetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://i.imgur.com/18X62CK.png",Sony
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" group-title="Filmes" tvg-logo="https://i.imgur.com/18X62CK.png",Sony
 https://tvsmarters.org/sonychannel/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
@@ -44,7 +44,7 @@ https://tvsmarters.org/axn/video.m3u8
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD [Alter]
 https://tvsmarters.org/space/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="USA.HD.br" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
+#EXTINF:-1 tvg-id="USA" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
 https://tvsmarters.org/amc/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO",HBO POP HD
@@ -65,7 +65,7 @@ https://tvsmarters.org/hboplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Filmes ",Studio Universal FHD
 https://tvsmarters.org/studiouniversal/tracks-v1a1l1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="https://imgur.com/VwFjFMO.png" group-title="Filmes",Universal Channel HD
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name=" Universal TV" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Filmes",Universal Channel HD
 https://tvsmarters.org/universaltv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes ",TNT HD
