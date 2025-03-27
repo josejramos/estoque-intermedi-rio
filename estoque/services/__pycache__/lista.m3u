@@ -107,10 +107,10 @@ https://tvsmarters.org/megapix/video.m3u8
 http://supersonictv.live:8080/899559/316805/84946
 
 #EXTINF:-1 tvg-id="Discovery.Kids.HD.br" tvg-name="Discovery Kids" group-title="Desenhos" tvg-logo="https://imgur.com/WxKCkhL.png",Discovery Kids
-https://stcdn.store/discoverykids/index.m3u8
+https://tvsmarters.org/discoverykids/video.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https:"",Nickelodeon
-https://stlvs.click/nickelodeon/index.m3u8
+https://tvsmarters.org/nickelodeon/video.m3u8
 
 #EXTINF:-1 tvg-id="Adult Swmin" tvg-name="Adult Swin" group-title="Desenhos" tvg-logo="",Adult Swmin
 https://tvsmarters.org/adultswim/tracks-v1a1/mono.ts.m3u8
@@ -118,7 +118,7 @@ https://tvsmarters.org/adultswim/tracks-v1a1/mono.ts.m3u8
 # Documentários
 
 #EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
-http://supersonictv.live:8080/899559/316805/84936
+https://tvsmarters.org/animalplanet/video.m3u8
 
 #EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
 https://stream1.freetv.fun/53dc240df506b21c1897af291c2f29f0986ba6fc690f98a95e254e6decdd4a7f.ctv
@@ -192,14 +192,13 @@ https://tvsmarters.org/globomg/tracks-v1a1/mono.ts.m3u8
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
-https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+https://tvsmarters.org/recordsp/video.m3u8
 
 #EXTINF:-1 tvg-id="REDETV.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/EgKx2J1.png",Rede TV
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
 
 #EXTINF:-1 tvg-id="Rede.Vida.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/0uNleBN.png",Rede Vida
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
-
 
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sbt.png",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -209,7 +208,6 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="Cultura.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/ heads/main/logos/tvcultura.png",Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
 
 #EXTINF:-1 tvg-id="TV EVANGELIZAR" tvg-name="" group-title="Abertos" tvg-logo="http://i.imgur.com/FoPnWx0.png",TV EVANGELIZAR
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
@@ -237,7 +235,7 @@ https://tvsmarters.org/espn5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 6
 https://tvsmarters.org/espn6/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Esportes", BandSports  
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="" group-title="Esportes", BandSports  
 https://tvsmarters.org/bandsports/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv
