@@ -162,8 +162,8 @@ https://tvsmarters.org/viva/video.m3u8
 https://tvsmarters.org/foodnetwork/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT NOVELAS" tvg-logo="" group-title="CANAIS: VARIEDADES",TNT NOVELAS
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/tntnovelas/video.m3u8
-
 
 # Jornalismo
 
