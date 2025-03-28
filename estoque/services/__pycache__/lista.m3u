@@ -28,7 +28,7 @@ https://tvsmarters.org/tctouch/video.m3u8
 
 #EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://p6.vc/APV" group-title="Filmes",A&E [HD]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://stlvs.click/aee/index.m3u8
+https://tvsmarters.org/aee/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://imgur.com/2lr4rvX.png",AMC
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -46,19 +46,18 @@ https://cdnlv.online/paramountnetwork/tracks-v1a1/mono.m3u8
 https://tvsmarters.org/sonychannel/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
-https://stlvs.click/sonymovies/index.m3u8
+https://cdnlv.online/sonymovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries", AXN [HD]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://livst.site/axn/tracks-v1a1/mono.m3u8
+https://tvsmarters.org/axn/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD [Alter]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/space/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/amc/tracks-v1a1/mono.ts.m3u8
+https://cdnlv.online/usa/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO",HBO POP HD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
