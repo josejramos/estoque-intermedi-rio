@@ -39,8 +39,7 @@ https://tvsmarters.org/amc/tracks-v1a1/mono.ts.m3u8
 https://tvsmarters.org/lifetime/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://imgur.com/GPcKZ2i.png",Paramount Network
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://stlvs.click/paramountnetwork/index.m3u8
+https://cdnlv.online/paramountnetwork/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony" group-title="Filmes" tvg-logo="https://i.imgur.com/18X62CK.png",Sony
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -205,6 +204,9 @@ https://tvsmarters.org/foodnetwork/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas" tvg-name="TNT NOVELAS" tvg-logo="" group-title="VARIEDADES", TNT NOVELAS
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/tntnovelas/video.m3u8
+
+#EXTINF:-1 tvg-id="TNTNovelas" tvg-name="TNT NOVELAS" tvg-logo="" group-title="VARIEDADES", TNT NOVELAS
+https://cdnlv.online/tntnovelas/tracks-v1a1/mono.m3u8
 
 # Jornalismo
 
