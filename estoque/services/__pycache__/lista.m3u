@@ -34,14 +34,14 @@ https://tvsmarters.org/aee/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/amc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime [HD]" tvg-logo="" group-title="Filmes",LFT [HD]
+#EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime [HD]" tvg-logo="" group-title="Filmes",LFT [HD]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/lifetime/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://imgur.com/GPcKZ2i.png",Paramount Network
 https://cdnlv.online/paramountnetwork/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" group-title="Filmes" tvg-logo="https://i.imgur.com/18X62CK.png",Sony
+#EXTINF:-1 tvg-id="sony" tvg-name="Sony" group-title="Filmes" tvg-logo="https://i.imgur.com/18X62CK.png",Sony
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/sonychannel/tracks-v1a1/mono.ts.m3u8
 
@@ -56,7 +56,7 @@ https://tvsmarters.org/axn/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/space/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="USA" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
+#EXTINF:-1 tvg-id="usa" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
 https://cdnlv.online/usa/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO",HBO POP HD
@@ -90,7 +90,7 @@ https://tvsmarters.org/universaltv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes ",TNT HD
 http://conexao-vs.live/TNT/index.m3u8
 
-#EXTINF:-1  tvg-id="https://imgur.com/vH2tkQt.png" group-title="Filmes",TNT Séries HD [Alter]
+#EXTINF:-1  tvg-id="tnt sereis" tv-logo="https://imgur.com/vH2tkQt.png" group-title="Filmes",TNT Séries HD [Alter]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/tntseries/tracks-v1a1/mono.ts.m3u8
 
