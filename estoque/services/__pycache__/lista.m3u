@@ -111,23 +111,28 @@ http://supersonictv.live:8080/899559/316805/84946
 https://tvsmarters.org/discoverykids/video.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https:"",Nickelodeon
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/nickelodeon/video.m3u8
 
 #EXTINF:-1 tvg-id="Adult Swmin" tvg-name="Adult Swin" group-title="Desenhos" tvg-logo="",Adult Swmin
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/adultswim/tracks-v1a1/mono.ts.m3u8
 
 # Documentários
 
 #EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/animalplanet/video.m3u8
 
 #EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
 https://stream1.freetv.fun/53dc240df506b21c1897af291c2f29f0986ba6fc690f98a95e254e6decdd4a7f.ctv
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/discoverychannel/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://imgur.com/6sTkahx.png",Discovery World
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/discoveryworld/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Curta!.HD.br" tvg-name="Curta!" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/curta.png?raw=true",Curta!
@@ -137,12 +142,15 @@ https://stlvs.click/curta/index.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-name="Discovery Home and Health" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dhh.png",Discovery h&h
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/discoveryhh/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name=" discovery" group-title="Documentários" tvg-logo="",discovery theater
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/discoverytheater/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name=" HGTV" group-title="Documentários" tvg-logo="",HGTV
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/hgtv/tracks-v1a1/mono.ts.m3u8
 
 # Diversos
@@ -187,13 +195,15 @@ https://new.m3u8.one/globorj/index.m3u8
 https://new.m3u8.one/globosp/index.m3u8
 
 #EXTINF:-1 tvg-id="tv-globo" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/waZJG1M.png",Globo
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://tvsmarters.org/globomg/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
-https://tvsmarters.org/recordsp/video.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://tvsmarters.org/recordsp/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="REDETV.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/EgKx2J1.png",Rede TV
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
