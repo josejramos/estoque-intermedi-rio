@@ -70,8 +70,8 @@ https://tvsmarters.org/hbopop/tracks-v1a1/mono.ts.m3u8
 https://tvsmarters.org/hbo/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO2" group-title="Filmes" tvg-logo="https://imgur.com/smM7mYc.png",HBO2
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/hbo2/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-referrer=https://reidoscanais.cc/
+https://livst.site/hbo2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/hbomundi.png?raw=true",HBO Mundi
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
