@@ -294,7 +294,7 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171307.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.2.br" tvg-name="SporTV 2" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv 2
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/sportv2/tracks-v1a1/mono.ts.m3u8
+https://embedtv.website/sportv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://imgur.com/ttHpdGp.png"",Sportv 3
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
