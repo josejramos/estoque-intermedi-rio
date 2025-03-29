@@ -49,8 +49,8 @@ https://tvsmarters.org/sonychannel/tracks-v1a1/mono.ts.m3u8
 https://cdnlv.online/sonymovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries", AXN [HD]
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/axn/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+https://s2.choraporco.icu/token/f82ca1d88f5aebc8032f83ec562ed69c/embedtv.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD [Alter]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
