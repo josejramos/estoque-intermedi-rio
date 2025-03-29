@@ -235,8 +235,7 @@ https://new.ejaculacaoretardada.site/globomg/tracks-v1a1/mono.m3u8?wmsAuthSign=u
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/recordsp/tracks-v1a1/mono.ts.m3u8
+https://new.ejaculacaoretardada.site/recordsp/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
 
 #EXTINF:-1 tvg-id="REDETV.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/EgKx2J1.png",Rede TV
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
