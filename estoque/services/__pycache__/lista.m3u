@@ -76,8 +76,8 @@ https://livst.site/hbo2/tracks-v1a1/mono.m3u8
 https://tvsmarters.org/hbomundi/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-name="HBO Plus" group-title="Filmes" tvg-logo="https://imgur.com/VGBP9wj.png",HBO Plus
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/hboplus/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-referrer=https://reidoscanais.cc/embed/?id=hboplus/
+https://livst.site/hboplus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Filmes ",Studio Universal FHD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
