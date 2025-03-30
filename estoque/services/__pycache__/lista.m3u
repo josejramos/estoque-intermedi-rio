@@ -4,95 +4,97 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/tcaction/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/tcaction/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium FHD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/tcpremium/tracks-v1a1l1/mono.ts.m3u8
+https://embedcanaisdetv.site/tcpremium/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/tcpipoca/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/tcpipoca/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://i.imgur.com/Tavo4Zl.png",Telecine Cult
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/tccult/video.m3u8
+https://embedcanaisdetv.site/tccult/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://i.imgur.com/eo6Js8D.png",Telecine Fun
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/tcfun/video.m3u8
+https://embedcanaisdetv.site/tcfun/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://i.imgur.com/viw732w.png",Telecine Touch
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/tctouch/video.m3u8
+https://embedcanaisdetv.site/tctouch/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://p6.vc/APV" group-title="Filmes",A&E [HD]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/aee/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/aee/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://imgur.com/2lr4rvX.png",AMC
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/amc/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/amc/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime [HD]" tvg-logo="" group-title="Filmes",LFT [HD]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/lifetime/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/lifiteme/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://imgur.com/GPcKZ2i.png",Paramount Network
 https://cdnlv.online/paramountnetwork/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sony" tvg-name="Sony" group-title="Filmes" tvg-logo="https://i.imgur.com/18X62CK.png",Sony
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/sonychannel/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/sonychannel/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
 https://cdnlv.online/sonymovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries", AXN [HD]
-#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
-https://s2.choraporco.icu/token/f82ca1d88f5aebc8032f83ec562ed69c/embedtv.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaisdetv.site/axn/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD [Alter]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/space/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/space/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="usa" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
 https://cdnlv.online/usa/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO",HBO POP HD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/hbopop/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/hbopop/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" group-title="Filmes" tvg-logo="https://imgur.com/IKjcTJH.png",HBO
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/hbo/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/hbo/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO2" group-title="Filmes" tvg-logo="https://imgur.com/smM7mYc.png",HBO2
-#EXTVLCOPT:http-referrer=https://reidoscanais.cc/
-https://livst.site/hbo2/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaisdetv.site/hbo2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/hbomundi.png?raw=true",HBO Mundi
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/hbomundi/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/hbomundi/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-name="HBO Plus" group-title="Filmes" tvg-logo="https://imgur.com/VGBP9wj.png",HBO Plus
-#EXTVLCOPT:http-referrer=https://reidoscanais.cc/embed/?id=hboplus/
-https://livst.site/hboplus/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaisdetv.site/hboplus/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Filmes ",Studio Universal FHD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/studiouniversal/tracks-v1a1l1/mono.ts.m3u8
+https://embedcanaisdetv.site/studiouniversal/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name=" Universal TV" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Filmes",Universal Channel HD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/universaltv/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/universaltv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes ",TNT HD
 http://conexao-vs.live/TNT/index.m3u8
 
 #EXTINF:-1  tvg-id="tnt sereis" tv-logo="https://imgur.com/vH2tkQt.png" group-title="Filmes",TNT Séries HD [Alter]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/tntseries/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/tntsereis/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/92rUCKL.png" group-title="Filmes",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
@@ -105,27 +107,27 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8825
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes",Warner Channel FHD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/warner/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/warner/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Filmes",HBO Family FHD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/hbofamily/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/hbofamily/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="https://i.imgur.com/Mkxd6PK.png" group-title="Filmes",HBO Xtreme FHD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/hboxtreme/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/hboxtreme/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Filmes",HBO SIGNATURE FHD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/hbosignature/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/hbosignature/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name=" CN" tvg-logo="" group-title="Filmes",CINEMAX
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/cinemax/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/cinemax/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id=MEGAPIX" tvg-name="MEGAPIX " tvg-logo="" group-title="Filmes",MEGAPIX
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/megapix/video.m3u8
+https://embedcanaisdetv.site/megapix/tracks-v1a1/mono.ts.m3u8
 
 # Desenhos
 
@@ -138,28 +140,28 @@ https://tvsmarters.org/discoverykids/video.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https:"",Nickelodeon
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/nickelodeon/video.m3u8
+https://embedcanaisdetv.site/nickelodeon/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Adult Swmin" tvg-name="Adult Swin" group-title="Desenhos" tvg-logo="",Adult Swmin
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/adultswim/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/adultswin/tracks-v1a1/mono.ts.m3u8
 
 # Documentários
 
 #EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/animalplanet/video.m3u8
+https://embedcanaisdetv.site/animalplanet/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
 https://stream1.freetv.fun/53dc240df506b21c1897af291c2f29f0986ba6fc690f98a95e254e6decdd4a7f.ctv
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/discoverychannel/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/discoverychannel/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://imgur.com/6sTkahx.png",Discovery World
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/discoveryworld/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/discoveryworld/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Curta!.HD.br" tvg-name="Curta!" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/curta.png?raw=true",Curta!
 https://stlvs.click/curta/index.m3u8
@@ -169,15 +171,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a
 
 #EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-name="Discovery Home and Health" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dhh.png",Discovery h&h
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/discoveryhh/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/discoveryhh/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name=" discovery" group-title="Documentários" tvg-logo="",discovery theater
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/discoverytheater/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/discoverytheater/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name=" HGTV" group-title="Documentários" tvg-logo="",HGTV
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/hgtv/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/hgtv/tracks-v1a1/mono.ts.m3u8
 
 # Diversos
 
@@ -186,23 +188,23 @@ https://stlvs.click/bis/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-name="Comedy Central" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/comedycentral/video.m3u8
+https://embedcanaisdetv.site/comedycentral/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="GNT.HD.br" tvg-name="GNT" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/gnt.png",GNT
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/gnt/tracks-v1a1l1/mono.ts.m3u8
+https://embedcanaisdetv.site/gnt/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Viva.HD.br" tvg-name="Viva" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs /heads/main/logos/viva.webp",VIVA
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/viva/video.m3u8
+https://embedcanaisdetv.site/viva/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="FOOD NETWOORK" tvg-name="FOOD NETWOORK" tvg-logo="http://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="CANAIS: VARIEDADES",FOOD NETWOORK
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/foodnetwork/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/foodnetwork/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas" tvg-name="TNT NOVELAS" tvg-logo="" group-title="VARIEDADES", TNT NOVELAS
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/tntnovelas/video.m3u8
+https://embedcanaisdetv.site/tntnovelas/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas" tvg-name="TNT NOVELAS" tvg-logo="" group-title="VARIEDADES", TNT NOVELAS
 https://cdnlv.online/tntnovelas/tracks-v1a1/mono.m3u8
@@ -228,7 +230,8 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 http://conexao-vs.live/GLOBO/index.m3u8
 
 #EXTINF:-1 tvg-id="tv-globo" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/waZJG1M.png",Globo
-https://new.ejaculacaoretardada.site/globomg/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaisdetv.site/globomg/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
@@ -287,25 +290,28 @@ https://tvsmarters.org/espn6/tracks-v1a1/mono.ts.m3u8
 https://tvsmarters.org/bandsports/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv
-https://new.ejaculacaoretardada.site/sportv/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaisdetv.site/sportv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.2.br" tvg-name="SporTV 2" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv 2
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedtv.website/sportv/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/sportv2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://imgur.com/ttHpdGp.png"",Sportv 3
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/sportv3/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/sportv3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere Clubes
-https://new.ejaculacaoretardada.site/pre1/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaisdetv.site/premiereclubes/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD2.br" tvg-name="Premiere 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 2
-https://new.ejaculacaoretardada.site/pre1/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaisdetv.site/premiere2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.3.br" tvg-name="Premiere 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 3
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/premiere3/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/premiere3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.4.br" tvg-name="Premiere 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 4
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
