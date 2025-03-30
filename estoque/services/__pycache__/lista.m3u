@@ -264,30 +264,31 @@ https://new.m3u8.one/combate/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes" | ESPN",ESPN HD 
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/espn/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/espn/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 2
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/espn2/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/espn2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 3
-https://tvsmarters.org/espn3/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaisdetv.site/espn3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 4
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/espn4/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/espn4/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 5" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 5
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/espn5/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/espn5/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 6
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/espn6/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/espn6/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BandSports" tvg-logo="" group-title="Esportes", BandSports  
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/bandsports/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/bandsports/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
