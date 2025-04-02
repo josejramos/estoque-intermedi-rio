@@ -266,6 +266,9 @@ https://new.m3u8.one/combate/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaisdetv.site/espn/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes" | ESPN",ESPN HD 
+https://strmv.sbs/espn/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 2
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaisdetv.site/espn2/tracks-v1a1/mono.ts.m3u8
