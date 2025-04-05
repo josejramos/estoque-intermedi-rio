@@ -156,8 +156,7 @@ https://embedcanaisdetv.site/animalplanet/tracks-v1a1/mono.ts.m3u8
 https://stream1.freetv.fun/53dc240df506b21c1897af291c2f29f0986ba6fc690f98a95e254e6decdd4a7f.ctv
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/discoverychannel/tracks-v1a1/mono.ts.m3u8
+https://strmv.sbs/discoverychannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://imgur.com/6sTkahx.png",Discovery World
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -174,8 +173,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a
 https://embedcanaisdetv.site/discoveryhh/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name=" discovery" group-title="Documentários" tvg-logo="",discovery theater
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/discoverytheater/tracks-v1a1/mono.ts.m3u8
+https://strmv.sbs/discoverytheater/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name=" HGTV" group-title="Documentários" tvg-logo="",HGTV
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -293,12 +291,10 @@ https://embedcanaisdetv.site/espn6/tracks-v1a1/mono.ts.m3u8
 https://embedcanaisdetv.site/bandsports/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/sportv/tracks-v1a1/mono.ts.m3u8
+https://strmv.sbs/sportv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.2.br" tvg-name="SporTV 2" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv 2
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/sportv2/tracks-v1a1/mono.ts.m3u8
+https://strmv.sbs/sportv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://imgur.com/ttHpdGp.png"",Sportv 3
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
