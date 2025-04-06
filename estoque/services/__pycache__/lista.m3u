@@ -147,13 +147,14 @@ https://embedcanaisdetv.site/adultswin/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/animalplanet/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/animalplanet/video.m3u8
 
 #EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
 https://stream1.freetv.fun/53dc240df506b21c1897af291c2f29f0986ba6fc690f98a95e254e6decdd4a7f.ctv
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
-https://strmv.sbs/discoverychannel/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://futebolhoje.org/discoverychannel/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://imgur.com/6sTkahx.png",Discovery World
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -167,14 +168,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a
 
 #EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-name="Discovery Home and Health" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dhh.png",Discovery h&h
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/discoveryhh/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/discoveryhh/video.m3u8
 
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name=" discovery" group-title="Documentários" tvg-logo="",discovery theater
-https://strmv.sbs/discoverytheater/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://futebolhoje.org/discoverytheater/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name=" HGTV" group-title="Documentários" tvg-logo="",HGTV
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/hgtv/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/discoveryhh/video.m3u8
 
 # Diversos
 
@@ -194,11 +196,12 @@ https://embedcanaisdetv.site/gnt/tracks-v1a1/mono.ts.m3u8
 https://embedcanaisdetv.site/viva/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="FOOD NETWOORK" tvg-name="FOOD NETWOORK" tvg-logo="http://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="CANAIS: VARIEDADES",FOOD NETWOORK
-https://strmv.sbs/foodnetwork/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://futebolhoje.org/foodnetwork/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas" tvg-name="TNT NOVELAS" tvg-logo="" group-title="VARIEDADES", TNT NOVELAS
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/tntnovelas/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/tntnovelas/video.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas" tvg-name="TNT NOVELAS" tvg-logo="" group-title="VARIEDADES", TNT NOVELAS
 https://strmv.sbs/tntnovelas/tracks-v1a1/mono.m3u8
@@ -225,7 +228,7 @@ http://conexao-vs.live/GLOBO/index.m3u8
 
 #EXTINF:-1 tvg-id="tv-globo" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/waZJG1M.png",Globo
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/globomg/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/globomg/video.m3u8
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
@@ -312,17 +315,20 @@ https://futebolhoje.org/premiere2/tracks-v1a1/mono.ts.m3u8
 https://futebolhoje.org/premiere3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.4.br" tvg-name="Premiere 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 4
-https://new.ejaculacaoretardada.site/pre4/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://futebolhoje.org/premiere4/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.5.br" tvg-name="Premiere 5" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 5
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvsmarters.org/premiere5/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/premiere5/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD6.br" tvg-name="Premiere 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 6
-https://stcdn.store/premiere6/index.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://futebolhoje.org/premiere6/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD7.br" tvg-name="Premiere 7" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 7
-https://stcdn.store/premiere7/index.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://futebolhoje.org/premiere7/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Nosso futebol.br" tvg-name="nosso futebol " group-title="Esportes" tvg-logo=
 https://stlvs.click/nossofutebol/index.m3u8
