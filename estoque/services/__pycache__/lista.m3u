@@ -93,8 +93,7 @@ https://embedcanaisdetv.site/universaltv/tracks-v1a1/mono.ts.m3u8
 http://conexao-vs.live/TNT/index.m3u8
 
 #EXTINF:-1  tvg-id="tnt sereis" tv-logo="https://imgur.com/vH2tkQt.png" group-title="Filmes",TNT Séries HD [Alter]
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/tntsereis/tracks-v1a1/mono.ts.m3u8
+http://pfsv.io:80/6705646555/60670/316.ts
 
 #EXTINF:-1 tvg-id="https://imgur.com/92rUCKL.png" group-title="Filmes",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
@@ -156,8 +155,7 @@ https://futebolhoje.org/animalplanet/video.m3u8
 https://stream1.freetv.fun/53dc240df506b21c1897af291c2f29f0986ba6fc690f98a95e254e6decdd4a7f.ctv
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/discoverychannel/tracks-v1a1/mono.ts.m3u8
+http://pfsv.io:80/6705646555/60670/30260.ts
 
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://imgur.com/6sTkahx.png",Discovery World
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -264,30 +262,30 @@ https://new.m3u8.one/combate/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes" | ESPN",ESPN HD 
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/espn/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/espn/tracks-v1a1a2/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes" | ESPN",ESPN HD 
 https://strmv.sbs/espn/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 2
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/espn2/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/espn2/tracks-v1a1a2/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 3
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/espn3/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/espn3/tracks-v1a1a2/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 4
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/espn4/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/espn4/tracks-v1a1a2/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 5" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 5
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/espn5/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/espn5/tracks-v1a1a2/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 6
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/espn6/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/espn6/tracks-v1a1a2/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BandSports" tvg-logo="" group-title="Esportes", BandSports  
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -334,10 +332,4 @@ https://futebolhoje.org/premiere6/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Premiere.HD7.br" tvg-name="Premiere 7" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 7
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://futebolhoje.org/premiere7/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Nosso futebol.br" tvg-name="nosso futebol " group-title="Esportes" tvg-logo=
-https://stlvs.click/nossofutebol/index.m3u8
-
-
-
 
