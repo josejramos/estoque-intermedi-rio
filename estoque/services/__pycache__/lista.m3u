@@ -90,7 +90,8 @@ https://embedcanaisdetv.site/studiouniversal/tracks-v1a1/mono.ts.m3u8
 https://embedcanaisdetv.site/universaltv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes ",TNT HD
-http://conexao-vs.live/TNT/index.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://futebolhoje.org/tnt/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1  tvg-id="tnt sereis" tv-logo="https://imgur.com/vH2tkQt.png" group-title="Filmes",TNT Séries HD [Alter]
 http://pfsv.io:80/6705646555/60670/316.ts
