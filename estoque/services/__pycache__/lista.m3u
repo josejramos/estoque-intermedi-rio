@@ -93,6 +93,10 @@ https://embedcanaisdetv.site/universaltv/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://futebolhoje.org/tnt/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes ",TNT HD
+http://pfsv.io:80/6705646555/60670/315.ts
+
+
 #EXTINF:-1  tvg-id="tnt sereis" tv-logo="https://imgur.com/vH2tkQt.png" group-title="Filmes",TNT Séries HD [Alter]
 http://pfsv.io:80/6705646555/60670/316.ts
 
@@ -245,7 +249,8 @@ https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/in
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sbt.png",SBT
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://futebolhoje.org/sbtsp/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TV APARECIDA" tvg-name="" group-title="Abertos" tvg-logo="Https://i.imgur.com/egU0jsZ.png",TV AP
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV
