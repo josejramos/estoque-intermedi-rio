@@ -58,7 +58,7 @@ https://strmv.sbs/axn/tracks-v1a1/mono.m3u8
 https://embedcanaisdetv.site/space/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="usa" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
-https://cdnlv.online/usa/tracks-v1a1/mono.m3u8
+http://pfsv.io:80/6705646555/60670/312.ts
 
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO",HBO POP HD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
