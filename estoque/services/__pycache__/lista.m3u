@@ -329,8 +329,7 @@ https://futebolhoje.org/sportv3/tracks-v1a1/mono.ts.m3u8
 https://futebolhoje.org/premiereclubes/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere Clubes
-https://s1.100mundial.icu/token/a3d7abe32e2404625119aeee1ecdf0b3/nossoplayer.m3u8
-
+https://s1.100mundial.icu/token/06849cacb19804d81f3119f03854639e/embedtv.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD2.br" tvg-name="Premiere 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 2
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
