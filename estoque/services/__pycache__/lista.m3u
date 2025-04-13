@@ -15,37 +15,36 @@ https://futebolhoje.org/tcpremium/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://futebolhoje.org/tcpipoca/tracks-v1a1/mono.ts.m3u8
 
-
 #EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://i.imgur.com/Tavo4Zl.png",Telecine Cult
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://futebolhoje.org/tccult/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://i.imgur.com/eo6Js8D.png",Telecine Fun
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/tcfun/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/tcfun/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://i.imgur.com/viw732w.png",Telecine Touch
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/tctouch/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/tctouch/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://p6.vc/APV" group-title="Filmes",A&E [HD]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/aee/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/aee/tracks-v1a1l1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://imgur.com/2lr4rvX.png",AMC
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/amc/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/amc/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime [HD]" tvg-logo="" group-title="Filmes",LFT [HD]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/lifiteme/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/lifetime/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://imgur.com/GPcKZ2i.png",Paramount Network
 https://cdnlv.online/paramountnetwork/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sony" tvg-name="Sony" group-title="Filmes" tvg-logo="https://i.imgur.com/18X62CK.png",Sony
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/sonychannel/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/sony/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
 https://cdnlv.online/sonymovies/tracks-v1a1/mono.m3u8
@@ -56,7 +55,7 @@ https://futebolhoje.org/axn/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD [Alter]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/space/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/space/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="usa" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
 http://pfsv.io:80/6705646555/60670/312.ts
@@ -67,32 +66,31 @@ https://futebolhoje.org/usa/video.m3u8
 
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO",HBO POP HD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/hbopop/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/hbopop/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" group-title="Filmes" tvg-logo="https://imgur.com/IKjcTJH.png",HBO
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/hbo/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/hbo/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO2" group-title="Filmes" tvg-logo="https://imgur.com/smM7mYc.png",HBO2
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/hbo2/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/hbo2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/hbomundi.png?raw=true",HBO Mundi
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/hbomundi/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/hbomundi/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-name="HBO Plus" group-title="Filmes" tvg-logo="https://imgur.com/VGBP9wj.png",HBO Plus
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/hboplus/tracks-v1a1/mono.ts.m3u8
-
+https://futebolhoje.org/hboplus/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Filmes ",Studio Universal FHD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/studiouniversal/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/studiouniversal/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name=" Universal TV" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Filmes",Universal Channel HD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/universaltv/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/universaltv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes ",TNT HD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -116,27 +114,27 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8825
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes",Warner Channel FHD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/warner/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/warner/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Filmes",HBO Family FHD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/hbofamily/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/hbofamily/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="https://i.imgur.com/Mkxd6PK.png" group-title="Filmes",HBO Xtreme FHD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/hboxtreme/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/hboxtreme/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Filmes",HBO SIGNATURE FHD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/hbosignature/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/hbosignature/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name=" CN" tvg-logo="" group-title="Filmes",CINEMAX
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/cinemax/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/cinemax/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id=MEGAPIX" tvg-name="MEGAPIX " tvg-logo="" group-title="Filmes",MEGAPIX
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/megapix/tracks-v1a1/mono.ts.m3u8
+https://futebolhoje.org/megapix/tracks-v1a1/mono.ts.m3u8
 
 # Desenhos
 
