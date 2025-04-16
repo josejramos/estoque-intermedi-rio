@@ -354,3 +354,5 @@ https://futebolhoje.org/premiere6/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://futebolhoje.org/premiere7/tracks-v1a1/mono.ts.m3u8
 
+EXTINF:-1 tvg-id="Premiere.HD7.br" tvg-name="teste" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 7
+https://s1.100mundial.icu/token/0bf5161061948fbccb4b2adc1e98049e/nossoplayer.m3u8
