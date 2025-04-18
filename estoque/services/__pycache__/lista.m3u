@@ -162,9 +162,6 @@ https://futebolhoje.org/animalplanet/video.m3u8
 #EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
 https://stream1.freetv.fun/53dc240df506b21c1897af291c2f29f0986ba6fc690f98a95e254e6decdd4a7f.ctv
 
-#EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
-http://pfsv.io:80/6705646555/60670/30260.ts
-
 TINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://futebolhoje.org/discoverychannel/tracks-v1a1/mono.ts.m3u8
