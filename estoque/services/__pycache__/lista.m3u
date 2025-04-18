@@ -165,6 +165,10 @@ https://stream1.freetv.fun/53dc240df506b21c1897af291c2f29f0986ba6fc690f98a95e254
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
 http://pfsv.io:80/6705646555/60670/30260.ts
 
+TINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://futebolhoje.org/discoverychannel/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://imgur.com/6sTkahx.png",Discovery World
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaisdetv.site/discoveryworld/tracks-v1a1/mono.ts.m3u8
