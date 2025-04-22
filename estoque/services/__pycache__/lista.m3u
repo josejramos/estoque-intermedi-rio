@@ -62,7 +62,7 @@ http://pfsv.io:80/6705646555/60670/312.ts
 
 #EXTINF:-1 tvg-id="usa" tvg-name="USA" group-title="Filmes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/usa.png?raw=true",USA
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/usa/video.m3u8
+https://onplaytv.net/usa/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO",HBO POP HD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -114,7 +114,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8825
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes",Warner Channel FHD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/warner/tracks-v1a1/mono.ts.m3u8
+https://onplaytv.net/warner/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Filmes",HBO Family FHD
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -157,18 +157,18 @@ https://embedcanaisdetv.site/adultswin/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/animalplanet/video.m3u8
+https://onplaytv.net/animalplanet/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Documentários",ANIMAL PLANET [HD]
 https://stream1.freetv.fun/53dc240df506b21c1897af291c2f29f0986ba6fc690f98a95e254e6decdd4a7f.ctv
 
 TINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" group-title="Documentários" tvg-logo="ttps://imgur.com/dgGgYjc.png",Discovery Channel
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/discoverychannel/tracks-v1a1/mono.ts.m3u8
+https://onplaytv.net/discoverychannel/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentários" tvg-logo="https://imgur.com/6sTkahx.png",Discovery World
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/discoveryworld/tracks-v1a1/mono.ts.m3u8
+https://onplaytv.net/discoveryworld/tracks-v1a1a2a3/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Curta!.HD.br" tvg-name="Curta!" group-title="Documentários" tvg-logo="https://github.com/tv-logo/tv-logos/blob/master/logos/curta.png?raw=true",Curta!
 https://stlvs.click/curta/index.m3u8
@@ -177,16 +177,16 @@ https://stlvs.click/curta/index.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-name="Discovery Home and Health" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dhh.png",Discovery h&h
-http://supersonictv.live:8080/968896/903421/84967
-
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com
+https://onplaytv.net/discoveryhh/video.m3u8
 
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-name=" discovery" group-title="Documentários" tvg-logo="",discovery theater
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/discoverytheater/tracks-v1a1/mono.ts.m3u8
+https://onplaytv.net/discoverytheater/video.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name=" HGTV" group-title="Documentários" tvg-logo="",HGTV
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/discoveryhh/video.m3u8
+https://onplaytv.net/hgtv/tracks-v1a1/mono.ts.m3u8
 
 # Diversos
 
@@ -195,23 +195,23 @@ https://stlvs.click/bis/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-name="Comedy Central" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/comedycentral/tracks-v1a1/mono.ts.m3u8
+https://onplaytv.net/comedycentral/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="GNT.HD.br" tvg-name="GNT" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/gnt.png",GNT
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/gnt/tracks-v1a1/mono.ts.m3u8
+https://onplaytv.net/gnt/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Viva.HD.br" tvg-name="Viva" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs /heads/main/logos/viva.webp",VIVA
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/viva/tracks-v1a1/mono.ts.m3u8
+https://onplaytv.net/viva/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="FOOD NETWOORK" tvg-name="FOOD NETWOORK" tvg-logo="http://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="CANAIS: VARIEDADES",FOOD NETWOORK
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/foodnetwork/tracks-v1a1/mono.ts.m3u8
+https://onplaytv.net/foodnetwork/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas" tvg-name="TNT NOVELAS" tvg-logo="" group-title="VARIEDADES", TNT NOVELAS
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/tntnovelas/video.m3u8
+https://onplaytv.net/tntnovelas/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas" tvg-name="TNT NOVELAS" tvg-logo="" group-title="VARIEDADES", TNT NOVELAS
 http://pfsv.io:80/6705646555/60670/148422.ts
@@ -235,17 +235,18 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-id="tv-globo" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/waZJG1M.png",Globo
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/globorj/tracks-v1a1/mono.ts.m3u8
+https://onplaytv.net/globorj/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="tv-globo" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/waZJG1M.png",Globo
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/globomg/video.m3u8
+https://onplaytv.net/globomg/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://onplaytv.net/recordsp/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="REDETV.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/EgKx2J1.png",Rede TV
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
@@ -255,7 +256,7 @@ https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/in
 
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sbt.png",SBT
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/sbtsp/tracks-v1a1/mono.ts.m3u8
+https://onplaytv.net/sbtsp/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TV APARECIDA" tvg-name="" group-title="Abertos" tvg-logo="Https://i.imgur.com/egU0jsZ.png",TV AP
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV
@@ -271,45 +272,37 @@ https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-id="Combate.HD.br" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/ heads/main/logos/combate.png",Combate
 https://new.m3u8.one/combate/index.m3u8
 
-#EXTINF:-1 tvg-id="Paramount" tvg-name="paramount" tvg-logo="" group-title="Esportes" | PA",futebol HD 
+#EXTINF:-1 tvg-id="Paramount" tvg-name="paramount" tvg-logo="" group-title="Esportes" | PA" Paramountplus HD 
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/paramountplus/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Paramount" tvg-name="paramount" tvg-logo="" group-title="Esportes" | PA",futebol HD 
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/paramountplus2/tracks-v1a1/mono.ts.m3u8
-
+https://onplaytv.net/paramountplus/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes" | ESPN",ESPN HD 
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/espn1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes" | ESPN",ESPN HD 
-https://strmv.sbs/espn/tracks-v1a1/mono.m3u8
+https://onplaytv.net/espn/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 2
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/espn2/tracks-v1a1a2/mono.ts.m3u8
+https://onplaytv.net/espn2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 3
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/espn3/tracks-v1a1a2/mono.ts.m3u8
+https://onplaytv.net/espn3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 4
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/espn4/tracks-v1a1a2/mono.ts.m3u8
+https://onplaytv.net/espn4/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 5" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 5
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/espn5/tracks-v1a1a2/mono.ts.m3u8
+https://onplaytv.net/espn5/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 6
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://futebolhoje.org/espn6/tracks-v1a1a2/mono.ts.m3u8
+https://onplaytv.net/espn6/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BandSports" tvg-logo="" group-title="Esportes", BandSports  
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaisdetv.site/bandsports/tracks-v1a1/mono.ts.m3u8
+https://onplaytv.net/bandsports/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
