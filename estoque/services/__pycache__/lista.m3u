@@ -238,7 +238,7 @@ https://tvmaxplay.online/globorj/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="tv-globo" tvg-name="" group-title="Abertos" tvg-logo="https://imgur.com/waZJG1M.png",Globo
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://tvmaxplay.online/globomg/tracks-v1a1/mono.ts.m3u8
+https://embedcanais.store/globomg/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
@@ -305,42 +305,42 @@ https://maxtorrents.net/bandsports/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://maxtorrents.net/sportv/tracks-v1a1/mono.ts.m3u8
+https://embedcanais.store/sportv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.2.br" tvg-name="SporTV 2" group-title="Esportes" tvg-logo="https://imgur.com/bwqLqyg.png",Sportv 2
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://maxtorrents.net/sportv2/tracks-v1a1/mono.ts.m3u8
+https://embedcanais.store/sportv2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://imgur.com/ttHpdGp.png"",Sportv 3
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://maxtorrents.net/sportv3/tracks-v1a1/mono.ts.m3u8
+https://embedcanais.store/sportv3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere Clubes
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://maxtorrents.net/premiereclubes/tracks-v1a1/mono.ts.m3u8
+https://embedcanais.store/premiereclubes/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere Clubes
 https://s1.100mundial.icu/token/06849cacb19804d81f3119f03854639e/embedtv.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD2.br" tvg-name="Premiere 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 2
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://maxtorrents.net/premiere2/tracks-v1a1/mono.ts.m3u8
+https://embedcanais.store/premiere2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.3.br" tvg-name="Premiere 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 3
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://maxtorrents.net/premiere3/tracks-v1a1/mono.ts.m3u8
+https://embedcanais.store/premiere3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.4.br" tvg-name="Premiere 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 4
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://maxtorrents.net/premiere4/tracks-v1a1/mono.ts.m3u8
+https://embedcanais.store/premiere4/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.5.br" tvg-name="Premiere 5" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 5
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://maxtorrents.net/premiere5/tracks-v1a1/mono.ts.m3u8
+https://embedcanais.store/premiere5/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD6.br" tvg-name="Premiere 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 6
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://maxtorrents.net/premiere6/tracks-v1a1/mono.ts.m3u8
+https://embedcanais.store/premiere6/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD7.br" tvg-name="Premiere 7" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 7
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
